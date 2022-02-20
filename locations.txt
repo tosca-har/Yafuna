@@ -1,0 +1,43 @@
+Symbol	Name	longitude	latitude	Sherds	Group	Details	Region
+NNA	Nawaipa/Ramnsite	145.9597222	-6.126944444	221	purple	Village site on bank of Ramu river. Claimed jointly by Markham valley groups and the Agarabi of Anonatu/Asupuia.	Middle Ramu Valley
+NIB	Antonapa	145.9388889	-6.185	1	blue	"Former Anonantu (Agarabi) settlement, half way up the slope from the floor of the Ramu Markham valley. Origin of Agarabi potting tradition?"	Northwest Highlands Crest
+NIC	E'Yuwarufi	145.95	-6.2	35	blue	"Next site to be occupied after Antonapa was abandoned, It is located about two thirds up the highlands slope. Probably occupied before 1850. "	Northwest Highlands Crest
+NID	Mumonapa	145.9447222	-6.206944444	4	blue	Occupied after the abandonment of E'Yuwarufi	Northwest Highlands Crest
+NIE	Urafenafa	145.9527778	-6.216666667	151	blue	"Anonantu' settlement decimated and dispersed by enemies ca 1895. The ancestral site of the Urafenantu clan of Bikupimpa village, Kaianantu."	Northwest Highlands Crest
+NMI	Anonantu	145.9375	-6.210277778	1	blue	NW highlands crest occupied today.	Northwest Highlands Crest
+NNE	Kaure'ana	145.9375	-6.1875	1	blue	On ridge line between NIB and NNF below Banana village on the Ramu Fall. Ridge top occupation site. Owned by Asipuia and Banana village.	Northwest Highlands Crest
+NNF	Kamumanapa	145.9366667	-6.191666667	4	blue	On ridge line north of and below Banana village on the Ramu Fall. Below NNQ. Ridge top occupation site. Owned by Banana village.	Northwest Highlands Crest
+NNQ	Aserankapa	145.9361111	-6.194444444	9	blue	On ridge track north of and below Banana village on the Ramu Fall. Ridge top occupation site. Below NNR. 	Northwest Highlands Crest
+NNR	Umayarompa	145.9305556	-6.203	2	blue	On ridge track north of and below Banana village on the Ramu fall. Ridge top occupation site. 	Northwest Highlands Crest
+NOT	Takoyuka	145.9527778	-6.197222222	13	blue	"On grass ridge to east of and below E'Yuwarufi, Ramu Fall. Ridge top occupation site, owner Anonantu."	Northwest Highlands Crest
+NOU	Yo'enipa	145.945	-6.2	3	blue	"On ridge leading NE from E'Yuwarufi, ridge top occupation site, Anonantu villages own."	Northwest Highlands Crest
+NOV	Binawaipa	145.9505556	-6.205555556	14	blue	"On ridge, below and to the east of E'Yuwarufi on Ramu Fall. Ridge top occupation site. Anonantu village own."	Northwest Highlands Crest
+NOX	Onko'kuimpa	145.9138889	-6.205555556	2	blue		Northwest Highlands Crest
+NVM	Tuwampimpa	146.0672222	-6.204722222	1	blue	"Asupuia (Agarabi) coffee garden Ramu Fall. Owner Moa, Asipuia villages"	Northeast Highlands Crest
+NVW	Komukapa	145.9055556	-6.205555556	1	blue	Asupuia coffee garden Ramu Fall.	Northwest Highlands Crest
+NWO	Yakusa	145.9558333	-6.222777778	3	blue	"Former settlement site, Arona Valley, situated on a low hill 500 m east of Yauna swiss mission."	Northwest Highlands Crest
+NKC	Tiwanompa	145.9527778	-6.266	46	green	Former settlement of the Kadupom Gadsup  who had been dispersed before 1921.	Yafuna
+NKD	Kadandapa	145.9575	-6.2666	91	green	Former settlement of the Kadupom Gadsup  who had been dispersed before 1921.	Yafuna
+NKE	U'kindimpa	145.9555556	-6.277	8	green	Former settlement of the Kadupom Gadsup  who had been dispersed before 1921.	Yafuna
+NKF	Ademompa	145.9569444	-6.281	24	green	Kadupom Gadsup settlement on the East slopes of Yafuna. Abandoned probably before the end of 19th century.	Yafuna
+NNG	Amunapa	145.9625	-6.270833333	30	green	Village site on same ridgeline as highlands highway re-route west of and beneath Yonki Dome. Grassland garden.	Yafuna
+NNH	Baka'anta	145.9594444	-6.272222222	14	green	"Village site, on hillslope low spur extending from Yonki Dome. Assoc. with NKD."	Yafuna
+NNI	Eforonkaia	145.9588889	-6.275	1	green	"Village site, on slopes of Yonki Dome, ridge-top site, grassland, gardened. Assoc. with NKE"	Yafuna
+NNJ	Bakofimpa	145.9658333	-6.2813	19	green	"Village site on slopes of Yonki Dome, hillslope spur extending from Yonki Dome."	Yafuna
+NNX	Mamakara	145.9686111	-6.245777778	1	green	"Village site. Bamboo grove forest, unused."	Yafuna
+NTQ	"Zone F, Block C"	145.9666667	-6.255033333	1	green		Yafuna
+NVF	"Zone G, Block C"	145.9661111	-6.260111111	2	green	"Yonki Dome, ridge top occupation site. "	Yafuna
+NDO	Wopepa	145.945	-6.336944444	11	orange	Reoccupied some 4 times in 1900s. South Arona slopes. 	South Arona Slopes
+NGM	Abiera	145.838	-6.349	1	orange	Grassland basin. Excavation by Watson in 1975. South.	South Arona Slopes
+NIO	Ayonatipa	145.9527778	-6.339	1	orange	Occupied ca 1932. South	South Arona Slopes
+NMK	Mani'i	145.9305556	-6.339	2	orange	South Arona slopes. 	South Arona Slopes
+NLO	Papana' apuna	146.0444444	-6.277777778	10	red	Eastern Arona Gap	Eastern Arona Slopes
+NLQ	Paunamunai	146.0694444	-6.276388889	41	red	Binumarien.	Arona Gap
+NLX	Kambusaka	146.0805556	-6.270833333	21	red	Binumarien.	Arona Gap
+NME	Uerepa	146.0672222	-6.243333333	6	red	Arona group 	Northeast Highlands Crest
+NMH	Pundibasa	146.0333333	-6.286111111	14	red	On the eastern slope of the Arona valley. Signs of 2 large round houses. Occupied in the 19th century or earlier. 	Eastern Arona Slopes
+NMJ	Kawaka	146.025	-6.233333333	6	red	Arona group. Occupied today.	Northeast Highlands Crest
+NML	Binumarien	146.08	-6.289	3	red	Binumarien. Wanton Valley. Occupied today.	Arona Gap
+NMN	Apumaka	146	-6.325333333	1	red	"Eastern arona slopes, occupied from ca 1921 and reoccupied after the Pacific War."	Eastern Arona Slopes
+NMT	Bioka	146.005	-6.316	1	red	Eastern arona slopes. Occupied today	Eastern Arona Slopes
+NOQ	Old Kainjapa	146.0408333	-6.304166667	54	red	"Kainjapa village, abandoned c1928. Village site on descending set of hillocks."	Eastern Arona Slopes

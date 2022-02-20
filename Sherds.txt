@@ -1,0 +1,861 @@
+Site	Fire	No.	Sherd	Part	Decorated	Weight	max thickness	exterior colour	core colour	interior	Inclusions	RIM_DIRECTION	LIP	RIM_LIP	radius	Burnished_inside	Burnished_outside	Multi-Impressed	Dash-Impressed_comb	LT-Impressed_comb	Fingernail	Punctate	Incised	Incised_comb	Grooved	Applique	Row_dashes_single	Row_dashes_multiple	Dots	Dashes	Dashes_slanted	Circles	Spikes	Stick	Columns_straight	Columns_slanted	Spaced_rows	Trails	Lines_straight	Lines_wavy	Lines_undulus	Tracks	Cresents	Triangles	Triangles_desc_dots	Single_col	Musical	Nubbin	Nubbin_donut	Agarabi_Adzera
+NDO	N	135	NDO/135	body	Y	42.5	10.75	tan4	salmon4	tan4	Moderate			_					Y					Y			Y			Y											Y									Agarabi
+NDO	N	151	NDO/151	body	Y	38.6	9.73	tan1	dark grey	tan1	Moderate			_					Y					Y				Y		Y											Y									Agarabi
+NDO	N	136	NDO/136	body	Y	32.2	12.51	salmon2	dark grey	salmon2	Sparse			_		Y			Y					Y			Y			Y									Y											notAdzera
+NDO	N	152	NDO/152	body	Y	28	10.23	tan1	tan1	tan4	Sparse			_		Y	Y			Y	Y	Y					Y				Y												Y		Y					Adzera
+NDO	N	137_150	NDO/137_150	body	Y	109.7	9.85	dark grey	dark grey	dark grey	Sparse			_		Y			Y					Y											Y					Y										Adzera
+NIB	N	1	NIB/1	body	Y	74.3	16.36	tan4	sienna3	sienna3	Moderate			_		Y	N					Y										Y																		notAdzera
+NIC	N	1	NIC/1	body	N	50.4	12.56	sienna4	salmon4	sienna4	Abundant			_		N	Y																																	
+NIC	N	5	NIC/5	body	N	62.4	11.32	sienna4	salmon4	salmon4	Abundant			_			Y																																	
+NIC	N	7	NIC/7	body	N	12.7	13.96	salmon3	salmon3	salmon3	Abundant			_																																				
+NIC	N	11	NIC/11	body	N	10.7	13.33	tan1	dark grey	dark grey	Abundant			_		N																																		
+NIC	N	19	NIC/19	body	N	10	7.4	salmon4	sienna3	sienna3	Abundant			_																																				
+NIC	N	30	NIC/30	body	N	31	10.37	sienna3	sienna4	sienna4	Abundant			_		N	N																																	
+NIC	N	32	NIC/32	body	N	21.2	7.11	sienna4	sienna4	sienna4	Abundant			_		N																																		
+NIC	N	34	NIC/34	body	N	56.6	11.22	tan4	sienna4	sienna4	Abundant			_		Y	N																																	
+NIC	N	36	NIC/36	body	N	72.4	10.25	tan1	sienna4	sienna4	Abundant			_		N	N																																	
+NIC	N	37	NIC/37	body	N	143.4	15.03	tan4	sienna4	sienna4	Abundant			_		Y	N																																	
+NIC	N	38	NIC/38	body	N	29.6	10.6	sienna4	sienna3	sienna3	Abundant			_		N	N																																	
+NIC	N	39	NIC/39	body	N	85.1	13.67	tan4	sienna4	sienna4	Abundant			_		Y	N																																	
+NIC	N	57	NIC/57	body	N	10.5	9.01	salmon3	salmon4	sienna4	Abundant			_		N																																		
+NIC	N	6	NIC/6	body	N	14.7	10.6	salmon3	salmon3	salmon3	Moderate			_		N																																		
+NIC	N	9	NIC/9	body	N	9.4	10.65	salmon3	salmon3	salmon3	Moderate			_		N	N																																	
+NIC	N	10	NIC/10	body	N	15.2	10.52	tan4	dark grey	dark grey	Moderate			_			Y																																	
+NIC	N	12	NIC/12	body	N	12.6	9.84	sienna4	salmon3	salmon3	Moderate			_																																				
+NIC	N	20	NIC/20	body	N	21.6	12.51	sienna4	sienna4	sienna4	Moderate			_			Y																																	
+NIC	N	21	NIC/21	body	N	33.9	9.16	salmon2	salmon2	salmon4	Moderate			_			Y																																	
+NIC	N	29	NIC/29	body	Y	144.3	11	tan4	grey	tan4	Moderate			_							Y	Y																												notAdzera
+NIC	N	31	NIC/31	body	N	43	10.34	sienna3	sienna4	sienna4	Moderate			_		Y	N																																	
+NIC	N	33	NIC/33	body	N	14.4	19.19	sienna4	sienna4	sienna4	Moderate			_		N																																		
+NIC	N	35	NIC/35	body	Y	17.4	8.62	sienna3	dark grey	sienna3	Moderate			_								Y			Y		Y			Y									Y											
+NIC	N	51	NIC/51	body	Y	175.3	9.2	tan1	dark grey	tan1	Moderate			_		Y	N							Y	Y												Y		Y											notAdzera
+NIC	N	54	NIC/54	body	N	82	10.51	salmon3	tan4	tan4	Moderate			_			N																																	
+NIC	N	55	NIC/55	body	N	23.8	7.66	sienna3	sienna3	sienna3	Moderate			_		N	N																																	
+NIC	N	56	NIC/56	body	N	22.3	8.71	salmon3	salmon3	salmon3	Moderate			_		N	N																																	
+NIC	N	58	NIC/58	body	N	5.6	7.61	salmon3	salmon4	salmon4	Moderate			_		N																																		
+NIC	N	59	NIC/59	body	N	14.2	8.45	sienna4	salmon3	salmon3	Moderate			_		N																																		
+NIC	N	26_27	NIC/26	body	N	375.3	13	sienna4	grey	sienna4	Moderate			_																																				AMR
+NIC	N	28	NIC/28	body	Y	68.5	15.57	sienna4	dark grey	sienna4	Sparse			_			N						Y																Y											
+NID	N	3	NID/3	body	N	12.9	10	salmon3	salmon3	salmon3	Abundant			_																																				
+NID	N	9	NID/9	body	Y	72.1	11.18	tan4	grey	tan4	Abundant			_			Y		Y					Y											Y				Y		Y									Agarabi
+NID	N	7	NID/7	body	N	8.6	10.19	dark grey	dark grey	dark grey	Moderate			_																																				
+NID	N	8	NID/8	body	N	18.7	8.13	sienna3	sienna3	grey	Moderate			_																																				
+NIE	N	290	NIE/290	body	N	16.1	10.17	tan4	tan4	dark grey	Abundant			_		N																																		
+NIE	N	5	NIE/5	body	N	38	10.25	sienna4	sienna4	dark grey	Abundant			_		N	Y																																	
+NIE	N	8	NIE/8	body	N	20.3	9.83	salmon3	salmon3	salmon3	Abundant			_		N	N																																	
+NIE	N	10	NIE/10	body	Y	28.8	10.75	tan1	dark grey	dark grey	Abundant			_					Y					Y				Y		Y										Y	Y									Agarabi
+NIE	N	232	NIE/232	body	Y	18	9.03	sienna3	sienna3	salmon3	Abundant			_			Y		Y					Y			Y			Y									Y											notAdzera
+NIE	N	243	NIE/243	body	Y	5.3	7.6	sienna4	sienna4	sienna3	Abundant			_										Y				Y		Y											Y									notAdzera
+NIE	N	246	NIE/246	body	Y	27.2	9.66	tan4	tan4	tan4	Abundant			_		N	N		Y									Y		Y																				AMR
+NIE	N	256	NIE/256	body	N	38.9	9.71	sienna1	dark grey	sienna1	Abundant			_		Y	Y																																	
+NIE	N	261	NIE/261	body	Y	26.1	8.6	tan4	tan4	sienna3	Abundant			_			Y		Y			Y					Y			Y			Y		Y															AMR
+NIE	N	264	NIE/264	base	N	118.4	20.38	sienna4	sienna4	sienna4	Abundant			_			N																																	
+NIE	N	265	NIE/265	body	N	70.2	11.3	salmon3	salmon3	salmon3	Abundant			_		N																																		
+NIE	N	266	NIE/266	body	N	52.8	9.91	sienna1	sienna1	sienna1	Abundant			_		Y																																		
+NIE	N	268	NIE/268	body	N	17.9	8.8	tan4	tan4	tan4	Abundant			_		N	Y																																	
+NIE	N	271	NIE/271	body	N	25.4	12.22	salmon3	salmon4	salmon3	Abundant			_		N	N																																	
+NIE	N	273	NIE/273	body	N	53.3	14.85	tan4	tan4	salmon3	Abundant			_		N	Y																																	
+NIE	N	280	NIE/280	body	N	132.5	16.08	tan4	tan4	tan4	Abundant			_		N	N																																	
+NIE	N	282	NIE/282	body	N	31.6	13.26	sienna3	sienna3	salmon3	Abundant			_		Y	N																																	
+NIE	N	284	NIE/284	body	N	45.9	14.33	salmon3	tan4	tan4	Abundant			_																																				
+NIE	N	292	NIE/292	body	N	30.3	13.3	tan1	tan1	sienna4	Abundant			_		N	N																																	
+NIE	N	294	NIE/294	body	N	47.4	12.12	tan1	sienna3	sienna3	Abundant			_		Y	Y																																	
+NIE	N	297	NIE/297	body	N	45.6	11.63	tan4	tan4	dark grey	Abundant			_																																				
+NIE	N	298	NIE/298	body	N	22.9	10.66	tan4	tan4	tan4	Abundant			_																																				
+NIE	N	308	NIE/308	body	N	18.9	10.21	salmon3	sienna1	tan4	Abundant			_		N	N																																	
+NIE	N	315	NIE/315	body	N	8.5	6.36	tan1	salmon4	dark grey	Abundant			_		Y																																		
+NIE	N	333	NIE/333	body	Y	68.4	15.18	tan1	dark grey	grey	Abundant			_		Y	N		Y					Y			Y			Y											Y									Agarabi
+NIE	N	335	NIE/335	body	Y	59.9	13.29	salmon4	salmon4	salmon4	Abundant			_		Y	Y								Y														Y		Y									AMR
+NIE	N	337	NIE/337	body	Y	23	12.59	sienna3	sienna4	sienna3	Abundant			_		N	N		Y																				Y											notAdzera
+NIE	N	340	NIE/340	body	Y	31	12.1	sienna3	salmon4	salmon4	Abundant			_			Y							Y														Y	Y											notAdzera
+NIE	N	351	NIE/351	body	N	95	14.05	sienna1	salmon3	salmon3	Abundant			_		N	N																																	
+NIE	N	353	NIE/353	body	N	7.2	8.9	sienna4	sienna4	sienna1	Abundant			_																																				
+NIE	N	354	NIE/354	body	N	9.7	10.35	tan1	sienna1	tan1	Abundant			_		N	Y																																	
+NIE	N	356	NIE/356	body	N	54.9	10.16	sienna4	sienna1	sienna1	Abundant			_		N	N																																	
+NIE	N	357	NIE/357	body	N	49.5	9.86	sienna1	sienna1	sienna1	Abundant			_		N																																		
+NIE	N	359	NIE/359	body	N	61.6	11.45	sienna1	sienna1	sienna1	Abundant			_		N	Y																																	
+NIE	N	360	NIE/360	body	N	53.5	18.18	sienna1	sienna1	tan4	Abundant			_		N	N																																	
+NIE	N	362	NIE/362	body	N	57	12.83	tan4	tan4	tan4	Abundant			_		Y	Y																																	
+NIE	N	363	NIE/363	body	N	12.6	8.01	sienna1	sienna1	sienna1	Abundant			_		N																																		
+NIE	N	367	NIE/367	body	N	9.2	8.36	sienna4	sienna4	sienna4	Abundant			_			N																																	
+NIE	N	368	NIE/368	body	N	21.2	11.62	tan1	tan1	salmon4	Abundant			_			N																																	
+NIE	N	369	NIE/369	body	N	33.7	13.85	salmon3	tan4	tan4	Abundant			_		N	N																																	
+NIE	N	370	NIE/370	body	N	86	14.57	tan1	tan1	sienna1	Abundant			_			Y																																	
+NIE	N	374	NIE/374	body	N	30.4	11.55	sienna4	grey	sienna3	Abundant			_		Y	Y																																	
+NIE	N	385	NIE/385	body	N	41.8	18.3	salmon3	sienna1	salmon4	Abundant			_		N	N																																	
+NIE	N	388	NIE/388	body	N	19.6	10.78	sienna4	sienna4	salmon4	Abundant			_			N																																	
+NIE	N	389	NIE/389	body	N	16.3	10.73	salmon3	salmon3	salmon4	Abundant			_			N																																	
+NIE	N	391	NIE/391	body	N	6.9	7.49	salmon2	salmon2	tan1	Abundant			_		Y																																		
+NIE	N	392	NIE/392	body	N	20.3	11.95	tan4	salmon4	sienna3	Abundant			_			Y																																	
+NIE	N	6	NIE/6	body	Y	12.2	8.82	sienna3	sienna3	sienna3	Moderate			_							Y												Y																	notAdzera
+NIE	N	7	NIE/7	body	N	63.2	8.77	salmon3	salmon3	sienna4	Moderate			_		Y	Y																																	AMR
+NIE	N	9	NIE/9	body	Y	39.9	10.07	salmon3	salmon3	dark grey	Moderate			_					Y											Y					Y															AMR
+NIE	N	16	NIE/16	body	Y	33.3	10.73	tan4	dark grey	tan4	Moderate			_										Y															Y											notAdzera
+NIE	N	203	NIE/203	body	N	11.1	12.05	tan1	tan1	tan1	Moderate			_																																				
+NIE	N	231	NIE/231	body	Y	33	11.37	salmon4	salmon4	salmon4	Moderate			_			Y		Y									Y		Y																				notAdzera
+NIE	N	235	NIE/235	body	Y	91.1	12.58	tan1	tan1	tan1	Moderate			_		Y	Y		Y																Y															AMR
+NIE	N	244	NIE/244	body	Y	11.3	10.85	sienna4	dark grey	sienna4	Moderate			_								Y												Y																AMR
+NIE	N	252	NIE/252	body	Y	6	8.03	tan4	grey	sienna3	Moderate			_		Y			Y																Y															
+NIE	N	257	NIE/257	body	N	23.5	8.07	dark grey	tan4	tan4	Moderate			_		Y	Y																																	
+NIE	N	263	NIE/263	body	N	96.3	11.24	sienna4	sienna4	sienna4	Moderate			_		Y	Y																																	
+NIE	N	267	NIE/267	body	N	48.5	10.28	sienna3	grey	sienna4	Moderate			_																																				
+NIE	N	269	NIE/269	body	N	19.2	10.4	salmon3	ND	salmon3	Moderate			_																																				
+NIE	N	270	NIE/270	body	N	21.8	9.84	tan4	tan4	dark grey	Moderate			_			Y																																	
+NIE	N	272	NIE/272	body	N	26.3	9.82	dark grey	dark grey	dark grey	Moderate			_																																				
+NIE	N	274	NIE/274	body	N	27.1	10.56	tan4	tan4	tan4	Moderate			_		N	Y																																	
+NIE	N	276	NIE/276	body	N	20.5	12.11	salmon3	salmon3	dark grey	Moderate			_		N	N																																	
+NIE	N	277	NIE/277	body	N	45.3	10.47	sienna4	sienna4	sienna4	Moderate			_																																				
+NIE	N	278	NIE/278	body	N	17.2	10.75	sienna4	sienna4	sienna3	Moderate			_			Y																																	
+NIE	N	279	NIE/279	body	N	15.7	12.83	sienna3	sienna3	sienna3	Moderate			_																																				
+NIE	N	281	NIE/281	body	N	89.6	20.98	tan4	sienna1	tan4	Moderate			_			N																																	
+NIE	N	283	NIE/283	body	N	10.2	7.41	salmon3	salmon3	dark grey	Moderate			_		N	N																																	
+NIE	N	285	NIE/285	body	N	16	8.49	dark grey	dark grey	sienna4	Moderate			_		N	N																																	
+NIE	N	286	NIE/286	body	N	48.6	9.7	sienna4	sienna4	sienna4	Moderate			_			N																																	
+NIE	N	287	NIE/287	body	N	14.8	10.55	sienna4	sienna4	sienna4	Moderate			_		Y	N																																	
+NIE	N	289	NIE/289	body	N	28.8	10.42	salmon3	salmon3	dark grey	Moderate			_		N	Y																																	
+NIE	N	291	NIE/291	body	N	33.1	11.49	sienna3	sienna3	sienna3	Moderate			_																																				
+NIE	N	296	NIE/296	body	N	24.3	9.89	sienna3	sienna3	sienna3	Moderate			_			N																																	
+NIE	N	300	NIE/300	body	N	19.8	8.19	tan1	dark grey	tan1	Moderate			_		Y	Y																																	
+NIE	N	301	NIE/301	body	N	51.9	14.53	sienna4	sienna4	sienna4	Moderate			_		Y	N																																	
+NIE	N	302	NIE/302	body	N	20.2	12.97	tan1	sienna1	sienna3	Moderate			_			Y																																	
+NIE	N	303	NIE/303	body	N	13.8	9.26	sienna4	salmon4	sienna4	Moderate			_		N																																		
+NIE	N	306	NIE/306	body	N	4.7	6.91	tan1	tan1	dark grey	Moderate			_		N																																		
+NIE	N	309	NIE/309	body	N	19.6	9.89	sienna4	sienna1	sienna4	Moderate			_																																				
+NIE	N	310	NIE/310	body	N	10.9	9.2	sienna4	sienna4	salmon3	Moderate			_			N																																	
+NIE	N	311	NIE/311	body	N	46	10.4	sienna1	sienna1	sienna1	Moderate			_		N	N																																	
+NIE	N	313	NIE/313	body	N	22.9	9.96	tan1	dark grey	tan4	Moderate			_		Y																																		
+NIE	N	314	NIE/314	body	N	9.8	9.74	sienna1	sienna1	sienna1	Moderate			_		N																																		
+NIE	N	317	NIE/317	body	N	15	10.16	tan1	sienna1	tan4	Moderate			_			Y																																	
+NIE	N	318	NIE/318	body	N	18.8	9.61	tan1	dark grey	dark grey	Moderate			_			Y																																	
+NIE	N	319	NIE/319	body	N	22.6	10.16	sienna4	sienna4	salmon4	Moderate			_		N																																		
+NIE	N	320	NIE/320	body	N	13.4	9.61	sienna1	sienna1	dark grey	Moderate			_		Y	Y																																	
+NIE	N	321	NIE/321	body	N	69.7	14.96	salmon2	salmon2	tan4	Moderate			_																																				
+NIE	N	322	NIE/322	body	N	34.8	13.98	sienna1	sienna1	tan4	Moderate			_		N																																		
+NIE	N	323	NIE/323	body	N	20.2	12.08	sienna1	sienna1	sienna1	Moderate			_		N	N																																	
+NIE	N	325	NIE/325	body	Y	113.5	13.17	salmon3	grey	sienna1	Moderate			_			Y		Y					Y					Y									Y	Y											notAdzera
+NIE	N	328	NIE/328	body	Y	77.2	14.47	dark grey	dark grey	sienna3	Moderate			_			Y		Y					Y													Y		Y		Y									Agarabi
+NIE	N	341	NIE/341	body	Y	24.9	9.78	sienna1	dark grey	sienna1	Moderate			_		N	N		Y									Y		Y																				notAdzera
+NIE	N	343	NIE/343	body	Y	12.5	10.4	tan4	salmon3	tan4	Moderate			_			Y		Y																Y															AMR
+NIE	N	346	NIE/346	body	N	40.1	14.85	tan1	tan1	salmon3	Moderate			_			N																																	
+NIE	N	347	NIE/347	body	N	13.7	6.11	dark grey	dark grey	dark grey	Moderate			_																																				
+NIE	N	349	NIE/349	body	N	45.1	8.4	sienna1	sienna1	sienna3	Moderate			_			Y																																	
+NIE	N	352	NIE/352	body	N	27.8	11.47	sienna1	sienna1	sienna1	Moderate			_																																				
+NIE	N	355	NIE/355	body	N	11.7	9.34	salmon3	salmon2	salmon2	Moderate			_		N	N																																	
+NIE	N	358	NIE/358	body	N	9.5	11.05	tan1	tan1	tan4	Moderate			_		N	N																																	
+NIE	N	361	NIE/361	body	N	69.8	14.92	salmon3	salmon3	salmon3	Moderate			_		N	Y																																	
+NIE	N	364	NIE/364	body	N	17.6	8.67	salmon3	tan4	tan4	Moderate			_		N																																		
+NIE	N	365	NIE/365	body	N	27.7	17.72	salmon3	salmon3	tan4	Moderate			_			N																																	
+NIE	N	373	NIE/373	body	N	22	11.73	salmon3	salmon3	sienna4	Moderate			_		N	Y																																	
+NIE	N	375	NIE/375	body	N	24.7	12.83	salmon3	salmon3	dark grey	Moderate			_		Y	Y																																	
+NIE	N	376	NIE/376	body	N	10.9	8.46	tan1	grey	tan4	Moderate			_			Y																																	
+NIE	N	377	NIE/377	body	N	6.5	11.97	sienna4	sienna1	salmon3	Moderate			_		N	N																																	
+NIE	N	378	NIE/378	body	N	19.8	14.03	sienna4	sienna4	salmon3	Moderate			_		N	N																																	
+NIE	N	379	NIE/379	body	N	15.3	11.33	sienna1	sienna1	tan4	Moderate			_		N																																		
+NIE	N	380	NIE/380	body	N	3.7	11.09	tan4	tan1	tan1	Moderate			_			N																																	
+NIE	N	381	NIE/381	body	N	44.6	13.14	sienna1	sienna1	tan4	Moderate			_		N	N																																	
+NIE	N	382	NIE/382	body	N	19.6	11.76	sienna4	sienna4	salmon3	Moderate			_			N																																	
+NIE	N	383	NIE/383	body	N	35	14.11	salmon3	salmon3	salmon3	Moderate			_		N	N																																	
+NIE	N	386	NIE/386	body	N	5.9	6.69	sienna3	sienna1	dark grey	Moderate			_																																				
+NIE	N	387	NIE/387	body	N	28.7	8.88	salmon3	salmon3	tan1	Moderate			_		Y	N																																	
+NIE	N	390	NIE/390	body	N	30.2	10.23	sienna4	sienna4	sienna4	Moderate			_																																				
+NIE	N	393	NIE/393	body	N	14.1	9.86	salmon3	sienna1	salmon3	Moderate			_		N	N																																	
+NIE	N	394	NIE/394	body	N	43.3	11.07	tan1	tan1	tan4	Moderate			_			N																																	
+NIE	N	3B	NIE/3B	body	N	37.4	9.15	tan	tan	tan4	Moderate			_		N																																		
+NIE	N	12	NIE/12	body	N	39.8	8.8	tan4	tan4	tan4	Moderate			_		N																																		
+NIE	N	13	NIE/13	body	N	29.1	7.85	tan4	tan4	sienna4	Moderate			_		Y																																		AMR
+NIE	N	14	NIE/14	body	N	35	11.99	sienna4	sienna4	sienna3	Moderate			_		Y																																		
+NIE	N	219	NIE/219	body	N	15.9	9.26	dark grey	sienna4	sienna4	Moderate			_		N	Y																																	
+NIE	N	251	NIE/251	body	N	29.4	11.28	sienna4	sienna4	salmon3	Moderate			_		N	N																																	
+NIE	N	260	NIE/260	body	Y	32.5	11.4	sienna1	tan4	dark grey	Moderate			_		Y	Y		Y					Y				Y		Y			Y			Y			Y											AMR
+NIE	N	288	NIE/288	body	N	10.9	12.05	sienna3	grey	sienna1	Moderate			_			N																																	
+NIE	N	293	NIE/293	body	N	7.8	7.61	tan4	tan4	tan4	Moderate			_		N	Y																																	
+NIE	N	295	NIE/295	body	Y	37.1	12.47	sienna3	dark grey	dark grey	Moderate			_								Y								Y																				notAdzera
+NIE	N	299	NIE/299	body	N	25.1	8.72	sienna4	sienna4	sienna4	Moderate			_			Y																																	
+NIE	N	304	NIE/304	body	N	16.9	12.15	tan4	sienna1	sienna4	Moderate			_		N	N																																	
+NIE	N	305	NIE/305	body	N	24.2	9.19	salmon3	salmon3	salmon3	Moderate			_		N																																		
+NIE	N	307	NIE/307	body	N	55.3	12.64	tan1	tan1	sienna4	Moderate			_			Y																																	
+NIE	N	316	NIE/316	body	N	29.8	13.52	tan1	tan1	dark grey	Moderate			_			N																																	
+NIE	N	348	NIE/348	body	N	182.9	15.61	sienna4	sienna4	tan4	Moderate			_		Y	Y																																	
+NIE	N	350	NIE/350	body	N	129.1	14.75	sienna4	sienna4	sienna3	Moderate			_		Y	N																																	
+NIE	N	371	NIE/371	body	N	84	16.02	tan1	tan1	tan1	Moderate			_		N	N																																	
+NIE	N	372	NIE/372	body	N	12.8	11.59	salmon3	salmon3	salmon3	Moderate			_		Y																																		
+NIE	N	384	NIE/384	body	N	48.1	12.19	tan1	tan1	dark grey	Moderate			_			N																																	
+NIE	N	3S	NIE/3S	body	Y	28.7	11.1	dark grey	tan4	sienna3	Moderate			_					Y					Y											Y						Y									Agarabi
+NIE	N	24	NIE/24	body	N	19.4	10.03	sienna1	sienna1	sienna1	Sparse			_		N	N																																	
+NIE	N	217	NIE/217	body	N	12.7	9.28	sienna3	sienna3	salmon3	Sparse			_		Y																																		
+NIE	N	254	NIE/254	body	N	22.1	15.28	salmon3	salmon3	salmon3	Sparse			_		N																																		
+NIE	N	275	NIE/275	body	N	19.6	8.1	sienna4	sienna4	sienna4	Sparse			_			Y																																	
+NIE	N	366	NIE/366	body	N	12.6	8.98	tan1	ND	tan1	U			_																																				
+NKC	N	32	NKC/32	body	N	30.5	12.14	tan4	sienna3	tan1	Abundant			_			Y																																	
+NKC	N	18	NKC/18	body	Y	47.4	13.18	sienna3	grey	salmon4	Moderate			_		Y	N		Y					Y			Y			Y									Y											notAdzera
+NKC	N	19	NKC/19	body	Y	62.2	10.55	tan4	grey	dark grey	Moderate			_		N			Y					Y			Y			Y									Y											notAdzera
+NKC	N	22	NKC/22	body	Y	8.4	10.54	sienna4	sienna4	sienna4	Moderate			_			Y		Y																Y															AMR
+NKC	N	25	NKC/25	body	N	107.2	12.7	tan4	salmon4	salmon3	Moderate			_		Y	Y																																	
+NKC	N	26	NKC/26	body	N	52	10.28	tan1	sienna1	sienna4	Moderate			_			Y																																	
+NKC	N	27	NKC/27	body	N	54.7	10.17	sienna3	sienna3	sienna4	Moderate			_			Y																																	
+NKC	N	28	NKC/28	body	N	26.8	6.93	sienna4	sienna1	sienna3	Moderate			_		N	N																																	
+NKC	N	29	NKC/29	body	N	51.9	10.74	sienna1	sienna4	sienna4	Moderate			_			Y																																	
+NKC	N	31	NKC/31	body	N	115.4	11.04	tan1	tan1	tan1	Moderate			_			Y																																	
+NKC	N	34	NKC/34	body	N	20.3	11.13	tan4	dark grey	tan4	Moderate			_		N																																		
+NKC	N	35	NKC/35	body	N	16.6	8.76	sienna4	sienna1	sienna4	Moderate			_		N																																		
+NKC	N	37	NKC/37	body	N	9.9	7.74	tan1	tan1	tan4	Moderate			_			N																																	
+NKC	N	39	NKC/39	body	N	13.5	11.02	tan4	tan4	tan1	Moderate			_			Y																																	
+NKC	N	44	NKC/44	body	N	12.2	10.77	sienna3	dark grey	sienna4	Moderate			_		N	Y																																	
+NKC	N	45	NKC/45	body	N	24.3	10.3	tan1	tan4	tan4	Moderate			_			Y																																	
+NKC	N	46	NKC/46	body	N	28.3	9.71	sienna1	tan1	sienna4	Moderate			_			Y																																	
+NKC	N	47	NKC/47	body	N	8	9.83	sienna4	salmon4	sienna4	Moderate			_			Y																																	
+NKC	N	53	NKC/53	body	N	7.6	11.71	sienna4	sienna4	sienna4	Moderate			_																																				
+NKC	N	55	NKC/55	body	N	8.6	12.1	sienna4	sienna4	salmon3	Moderate			_		Y																																		
+NKC	N	56	NKC/56	body	N	8.8	12.06	tan4	sienna4	tan1	Moderate			_			Y																																	
+NKC	N	57	NKC/57	body	N	7.4	11.91	sienna4	sienna4	sienna4	Moderate			_																																				
+NKC	N	59	NKC/59	body	N	3.2	7	tan1	salmon4	tan1	Moderate			_																																				
+NKC	N	20	NKC/20	body	Y	20.2	12.05	salmon4	salmon4	salmon4	Moderate			_			N		Y					Y				Y		Y									Y											notAdzera
+NKC	N	24	NKC/24	body	Y	11.8	12.25	dark grey	grey	tan4	Moderate			_			N		Y					Y						Y										Y										Adzera
+NKC	N	40	NKC/40	base	N	39.8	16.22	sienna3	sienna3	sienna3	Moderate			_		Y	Y																																	
+NKC	N	16	NKC/16	body	Y	27.1	9.79	sienna3	sienna3	sienna3	Sparse			_		Y	N					Y										Y					Y													Adzera
+NKC	N	17	NKC/17	body	Y	31.8	9.73	sienna4	dark grey	sienna3	Sparse			_		Y	Y							Y																Y										Adzera
+NKC	N	21	NKC/21	body	Y	5.8	5.5	tan4	grey	sienna3	Sparse			_		Y	Y			Y																														Adzera
+NKC	N	30	NKC/30	body	N	57.1	11.66	tan4	tan4	tan4	Sparse			_		N	Y																																	
+NKC	N	33	NKC/33	body	N	22.9	10.39	sienna3	sienna4	tan4	Sparse			_			Y																																	
+NKC	N	36	NKC/36	body	N	20.5	9.57	salmon4	sienna1	salmon4	Sparse			_			Y																																	
+NKC	N	38	NKC/38	body	N	7.2	7.73	tan4	tan4	tan4	Sparse			_																																				
+NKC	N	41	NKC/41	body	N	39	12.83	sienna4	sienna1	sienna4	Sparse			_		Y	N																																	
+NKC	N	42	NKC/42	body	N	15.4	8.23	sienna1	sienna1	dark grey	Sparse			_																																				
+NKC	N	43	NKC/43	body	N	22.4	7.23	sienna1	sienna1	dark grey	Sparse			_																																				
+NKC	N	48	NKC/48	body	N	47.8	17.02	sienna4	tan1	sienna4	Sparse			_		N	N																																	
+NKC	N	49	NKC/49	body	N	17.2	11.61	sienna4	salmon4	sienna4	Sparse			_		N																																		
+NKC	N	50	NKC/50	body	N	45.8	12.4	tan4	dark grey	tan1	Sparse			_			Y																																	
+NKC	N	51	NKC/51	body	N	3.9	6.93	tan1	salmon4	tan1	Sparse			_																																				
+NKC	N	52	NKC/52	body	N	10.9	9.33	salmon3	dark grey	salmon3	Sparse			_			Y																																	
+NKC	N	54	NKC/54	body	N	7.9	12.08	sienna4	sienna4	sienna4	Sparse			_																																				
+NKC	N	58	NKC/58	body	N	7.6	9.11	tan1	tan1	tan1	Sparse			_																																				
+NKD	N	49	NKD/49	body	Y	58.7	10.44	sienna3	sienna3	sienna3	Abundant			_		N	N				Y	Y	Y		Y	Y					Y		Y										Y						Y	notAdzera
+NKD	N	50	NKD/50	body	Y	35.4	11.52	tan4	grey	tan4	Abundant			_			Y		Y																															notAdzera
+NKD	N	52	NKD/52	body	Y	22.5	7.9	sienna3	sienna4	sienna1	Abundant			_		N	N					Y		Y															Y								Y			notAdzera
+NKD	N	56	NKD/56	body	Y	12.1	11.23	sienna4	sienna4	sienna4	Abundant			_		Y	N		Y																		Y													Agarabi
+NKD	N	63	NKD/63	body	Y	43.1	12.13	sienna3	salmon4	sienna3	Abundant			_			Y		Y			Y		Y			Y			Y			Y			Y					Y									Agarabi
+NKD	N	70	NKD/70	body	Y	61.6	11.71	tan1	dark grey	dark grey	Abundant			_			Y		Y					Y				Y		Y											Y									Agarabi
+NKD	N	104	NKD/104	body	N	25	10.64	sienna4	sienna4	dark grey	Abundant			_		N																																		
+NKD	N	114	NKD/114	body	N	59.5	15.84	sienna4	sienna4	sienna4	Abundant			_			N																																	
+NKD	N	115	NKD/115	body	N	24.9	12.13	tan4	tan4	tan1	Abundant			_																																				
+NKD	N	118	NKD/118	body	N	41.5	12.79	tan4	tan4	tan4	Abundant			_		Y	N																																	
+NKD	N	151	NKD/151	body	N	21.3	13.59	tan1	salmon4	salmon4	Abundant			_			N																																	
+NKD	N	153	NKD/153	body	N	36.8	10.24	tan4	salmon4	tan1	Abundant			_																																				
+NKD	N	53	NKD/53	body	Y	35.8	9.8	sienna3	sienna4	sienna4	Moderate			_		Y	Y		Y											Y																				notAdzera
+NKD	N	54	NKD/54	body	Y	40.9	12	sienna3	salmon4	dark grey	Moderate			_			Y					Y																												
+NKD	N	55	NKD/55	body	Y	47.9	11.58	tan1	tan4	tan4	Moderate			_		N	N		Y																															notAdzera
+NKD	N	57	NKD/57	body	Y	12.4	11.1	sienna4	sienna4	sienna4	Moderate			_			Y		Y																		Y													Agarabi
+NKD	N	58	NKD/58	body	Y	34.6	10.3	sienna3	sienna3	salmon3	Moderate			_			N		Y									Y		Y																				notAdzera
+NKD	N	60	NKD/60	body	N	113.2	12.66	tan4	tan4	tan4	Moderate			_		N	N																																	
+NKD	N	62	NKD/62	body	Y	54.3	10.64	sienna1	ND	sienna1	Moderate			_		N	Y		Y					Y				Y		Y									Y		Y									Agarabi
+NKD	N	66	NKD/66	body	Y	65.9	11.36	tan1	dark grey	dark grey	Moderate			_			Y		Y					Y				Y		Y											Y									Agarabi
+NKD	N	67	NKD/67	body	Y	19.5	8.6	tan4	tan4	tan4	Moderate			_			Y		Y					Y				Y		Y											Y									Agarabi
+NKD	N	68	NKD/68	body	Y	39.3	10.39	tan4	tan4	salmon3	Moderate			_					Y			Y		Y				Y		Y			Y		Y						Y									Agarabi
+NKD	N	69	NKD/69	body	Y	58.5	13.62	tan4	tan4	tan4	Moderate			_			N		Y					Y				Y		Y											Y									Agarabi
+NKD	N	74	NKD/74	body	N	25	10.46	tan4	tan4	tan4	Moderate			_		Y																																		
+NKD	N	75	NKD/75	body	N	41.4	12.1	tan4	tan4	tan4	Moderate			_		Y	Y																																	
+NKD	N	79	NKD/79	body	N	35.4	9.87	sienna4	dark grey	sienna4	Moderate			_		Y	Y																																	
+NKD	N	85	NKD/85	body	N	102.7	12.56	sienna1	sienna4	tan4	Moderate			_		N	Y																																	
+NKD	N	87	NKD/87	body	N	42.8	11.66	tan	tan	tan	Moderate			_			Y																																	
+NKD	N	88	NKD/88	body	N	20.1	10.2	tan4	tan4	tan4	Moderate			_			N																																	
+NKD	N	103	NKD/103	body	N	29.5	12.3	sienna4	dark grey	dark grey	Moderate			_		N	Y																																	
+NKD	N	106	NKD/106	body	N	44.7	11.73	tan1	tan1	tan1	Moderate			_			Y																																	
+NKD	N	113	NKD/113	body	N	29.1	11.84	tan1	salmon3	salmon3	Moderate			_			N																																	
+NKD	N	116	NKD/116	body	N	22.5	9.72	salmon2	salmon2	salmon2	Moderate			_		Y																																		
+NKD	N	117	NKD/117	body	N	8.6	9.64	tan1	tan4	tan4	Moderate			_																																				
+NKD	N	119	NKD/119	body	N	25.5	12.33	sienna4	sienna1	sienna1	Moderate			_																																				
+NKD	N	120	NKD/120	body	N	7.7	7.88	sienna4	sienna4	sienna4	Moderate			_																																				
+NKD	N	121	NKD/121	body	N	9.6	11.79	sienna1	sienna1	sienna4	Moderate			_																																				
+NKD	N	134	NKD/134	body	N	42.8	9.99	tan1	sienna4	sienna4	Moderate			_		Y	Y																																	
+NKD	N	135	NKD/135	body	N	21.4	11.55	sienna1	sienna4	sienna4	Moderate			_		N																																		
+NKD	N	137	NKD/137	body	N	65.1	15	sienna4	salmon4	tan4	Moderate			_			N																																	
+NKD	N	138	NKD/138	body	N	51.9	16.35	tan1	tan1	tan1	Moderate			_			Y																																	
+NKD	N	139	NKD/139	body	N	25.1	9.59	tan1	tan1	tan1	Moderate			_		N	N																																	
+NKD	N	140	NKD/140	body	N	29.1	10.47	sienna1	sienna4	sienna4	Moderate			_		N	N																																	
+NKD	N	149	NKD/149	body	N	75.1	11.5	tan1	tan4	tan4	Moderate			_			Y																																	
+NKD	N	150	NKD/150	body	N	51.1	12.04	tan1	tan4	tan4	Moderate			_		N	Y																																	
+NKD	N	157	NKD/157	body	N	22.1	11.19	sienna4	sienna4	sienna3	Moderate			_		Y																																		
+NKD	N	158	NKD/158	body	N	84.9	16.17	sienna4	sienna4	sienna4	Moderate			_			N																																	
+NKD	N	159	NKD/159	body	N	9.8	8.49	sienna4	sienna4	sienna1	Moderate			_		Y																																		
+NKD	N	161	NKD/161	body	N	39	9.87	tan1	tan1	tan1	Moderate			_																																				
+NKD	N	162	NKD/162	body	N	19.3	9.31	sienna4	sienna4	sienna4	Moderate			_		Y																																		
+NKD	N	164	NKD/164	body	N	51.4	11.9	salmon3	tan1	tan1	Moderate			_																																				
+NKD	N	165	NKD/165	body	N	21.2	8.78	sienna4	sienna4	sienna4	Moderate			_		Y																																		
+NKD	N	166	NKD/166	body	N	27	9.22	sienna1	tan4	tan4	Moderate			_		Y	Y																																	
+NKD	N	177	NKD/177	body	Y	51.5	10.61	sienna3	sienna3	sienna3	Moderate			_			N							Y														Y												AMR
+NKD	N	48	NKD/48	body	Y	47.1	9.8	salmon3	salmon4	tan1	Moderate			_		N	N					Y				Y							Y																Y	notAdzera
+NKD	N	61	NKD/61	body	Y	39.8	9.72	tan4	tan4	sienna3	Moderate			_			N		Y																		Y													Agarabi
+NKD	N	154	NKD/154	body	N	54.1	13.51	tan4	tan4	tan4	Moderate			_																																				
+NKD	N	44	NKD/44	body	Y	36.3	8.99	sienna3	dark grey	dark grey	Sparse			_			Y	Y							Y														Y											Adzera
+NKD	N	45	NKD/45	body	Y	30.5	11.42	tan1	grey	tan1	Sparse			_			Y	Y							Y														Y				Y							Adzera
+NKD	N	46	NKD/46	body	Y	5.9	7.08	sienna3	sienna3	sienna3	Sparse			_			Y	Y									Y				Y												Y							Adzera
+NKD	N	47	NKD/47	body	Y	25	12.44	tan1	grey	tan1	Sparse			_		Y	Y	Y					Y				Y				Y														Y					Adzera
+NKD	N	51	NKD/51	body	Y	37.4	13.82	tan4	dark grey	tan1	Sparse			_		N	N		Y								Y			Y																				notAdzera
+NKD	N	65	NKD/65	body	Y	22	10.26	salmon3	grey	sienna4	Sparse			_										Y															Y		Y									Agarabi
+NKD	N	71	NKD/71	body	Y	20.8	11.3	tan1	grey	tan4	Sparse			_					Y									Y		Y																				notAdzera
+NKD	N	72	NKD/72	body	Y	51.7	10.99	tan4	grey	sienna4	Sparse			_					Y					Y				Y		Y									Y											notAdzera
+NKD	N	100	NKD/100	body	N	77	10.71	tan1	tan1	tan1	Sparse			_		Y	N																																	
+NKD	N	101	NKD/101	body	N	16.1	9.81	tan1	tan1	tan1	Sparse			_		Y																																		
+NKD	N	102	NKD/102	body	N	18.4	7.69	tan1	tan1	tan1	Sparse			_		Y	Y																																	
+NKD	N	108	NKD/108	body	Y	20.7	12.75	sienna3	salmon3	tan	Sparse			_			Y					Y								Y																				Adzera
+NKD	N	136	NKD/136	body	N	41.5	9.84	tan1	tan	tan	Sparse			_		Y																																		
+NKD	N	144	NKD/144	body	N	134.1	9.95	sienna1	tan4	tan4	Sparse			_		Y	Y																																	
+NKD	N	145	NKD/145	body	N	54.6	7.54	tan4	tan4	tan4	Sparse			_			Y																																	
+NKD	N	146	NKD/146	body	N	69.9	12.94	tan1	salmon3	salmon3	Sparse			_		N	Y																																	
+NKD	N	147	NKD/147	body	N	24.8	10.71	tan1	sienna1	sienna1	Sparse			_																																				
+NKD	N	148	NKD/148	body	N	59.8	9.27	tan4	tan4	tan1	Sparse			_		Y	Y																																	
+NKD	N	152	NKD/152	body	N	17.4	10.34	tan1	tan1	tan1	Sparse			_																																				
+NKD	N	155	NKD/155	body	N	66.3	12.13	tan1	dark grey	dark grey	Sparse			_		Y	N																																	
+NKD	N	156	NKD/156	body	N	21.3	9.87	tan1	tan4	tan4	Sparse			_			Y																																	
+NKD	N	160	NKD/160	body	N	38.3	8.69	sienna4	sienna4	sienna4	Sparse			_			N																																	
+NKD	N	163	NKD/163	body	N	36.3	11.13	tan1	sienna4	sienna4	Sparse			_		Y																																		
+NKE	N	3	NKE/3	body	N	30.6	13.8	dark grey	sienna3	sienna3	Moderate			_		Y	Y																																	
+NKE	N	2	NKE/2	body	Y	21.3	13.65	salmon4	salmon4	salmon4	Moderate			_		Y							Y																Y											
+NKE	N	7_9	NKE/7_9	body	N	12.8	13.62	dark grey	salmon4	dark grey	Moderate			_		Y																																		
+NKE	N	4_5_6_8	NKE/4_5_6_8	body	N	91.7	13.92	salmon4	salmon4	salmon4	Sparse			_		N																																		
+NKF	N	18	NKF/18	body	Y	31.7	10.92	sienna4	grey	tan4	Abundant			_			Y			Y			Y	Y			Y				Y									Y										Adzera
+NKF	N	36	NKF/36	body	N	7.2	12.67	tan1	tan4	tan4	Abundant			_		N	N																																	
+NKF	N	25	NKF/25	body	N	18.7	12.67	tan1	salmon2	salmon3	Moderate			_		N	N																																	
+NKF	N	26	NKF/26	body	N	33.5	14	tan1	salmon3	salmon3	Moderate			_		Y	N																																	
+NKF	N	28	NKF/28	body	N	14.8	10.68	sienna4	sienna4	sienna4	Moderate			_			Y																																	
+NKF	N	29	NKF/29	body	N	53.4	8.93	sienna4	sienna4	sienna4	Moderate			_		Y																																		
+NKF	N	30	NKF/30	body	N	31.5	10.41	sienna4	sienna4	dark grey	Moderate			_		Y	Y																																	
+NKF	N	32	NKF/32	body	N	7.8	8.06	sienna4	sienna4	sienna4	Moderate			_																																				
+NKF	N	33	NKF/33	body	N	74.6	12.27	sienna4	sienna4	sienna4	Moderate			_			Y																																	
+NKF	N	34	NKF/34	body	N	10.1	16.13	sienna3	sienna3	sienna3	Moderate			_		N	N																																	
+NKF	N	35	NKF/35	body	N	10.4	8.95	sienna4	sienna4	sienna4	Moderate			_																																				
+NKF	N	42	NKF/42	body	Y	41	10.61	salmon4	salmon4	salmon4	Moderate			_			N		Y									Y		Y																				
+NKF	N	17	NKF/17	body	Y	35.9	10.5	sienna4	sienna4	sienna3	Moderate			_		Y				Y			Y				Y				Y														Y	Y				Adzera
+NKF	N	20	NKF/20	body	Y	43	10.12	dark grey	salmon4	dark grey	Moderate			_			Y		Y			Y			Y							Y			Y				Y											AMR
+NKF	N	21	NKF/21	body	N	13.2	10.48	tan1	sienna3	sienna3	Moderate			_																																				
+NKF	N	22	NKF/22	body	N	14.7	10.81	sienna4	sienna4	sienna4	Moderate			_																																				
+NKF	N	31	NKF/31	body	N	21	10.72	dark grey	sienna4	sienna4	Moderate			_																																				
+NKF	N	19	NKF/19	body	Y	11.2	9.1	salmon4	salmon4	sienna4	Sparse			_		Y	Y						Y							Y																				Adzera
+NKF	N	23	NKF/23	body	N	16.3	10.46	sienna4	sienna4	sienna4	Sparse			_		Y	N																																	
+NKF	N	24	NKF/24	body	N	16.6	11.08	sienna4	sienna4	sienna4	Sparse			_																																				
+NKF	N	27	NKF/27	body	N	96.2	11.99	salmon4	salmon4	salmon4	Sparse			_			Y																																	
+NLO	N	8	NLO/8	body	Y	28.2	9.98	sienna1	sienna4	sienna3	Abundant			_			Y					Y												Y																Adzera
+NLO	N	9	NLO/9	body	N	58.9	8.22	sienna3	dark grey	tan1	Moderate			_																																				
+NLO	N	1	NLO/1	body	N	57.3	9.51	tan1	tan1	tan1	Sparse			_		Y	Y																																	
+NLO	N	2	NLO/2	body	N	79.5	9.53	tan1	dark grey	dark grey	Sparse			_			Y																																	
+NLO	N	3	NLO/3	body	N	22.5	7.83	tan1	tan1	tan1	Sparse			_			Y																																	
+NLO	N	4	NLO/4	body	N	8.8	7.44	tan1	dark grey	tan1	Sparse			_			Y																																	
+NLO	N	6	NLO/6	body	N	7.01	9.33	tan1	dark grey	tan1	Sparse			_			Y																																	
+NLO	N	7	NLO/7	body	Y	38.1	9.26	tan1	dark grey	tan1	Sparse			_			Y	Y																									Y							Adzera
+NLQ	N	25	NLQ/25	body	N	36	8.16	sienna4	dark grey	dark grey	Abundant			_		Y	N																																	
+NLQ	N	11	NLQ/11	body	N	98.6	10.97	salmon3	salmon3	salmon3	Moderate			_		Y	N																																	
+NLQ	N	13	NLQ/13	body	Y	22.1	8.68	salmon3	dark grey	salmon3	Moderate			_			Y			Y			Y																						Y					Adzera
+NLQ	N	15	NLQ/15	body	Y	97.8	9.51	sienna4	dark grey	tan4	Moderate			_			Y			Y				Y																Y					Y					Adzera
+NLQ	N	35	NLQ/35	body	N	78.5	21.34	sienna3	sienna3	sienna4	Moderate			_			Y																																	
+NLQ	N	55	NLQ/55	body	Y	36	10.81	tan4	tan4	tan4	Moderate			_					Y					Y				Y		Y											Y									Agarabi
+NLQ	N	63	NLQ/63	body	N	20.6	10.93	salmon4	salmon4	salmon4	Moderate			_		N	N																																	
+NLQ	N	1	NLQ/1	body	Y	39.4	7.73	salmon3	salmon3	salmon4	Sparse			_		Y				Y										Y																Y				Adzera
+NLQ	N	2	NLQ/2	body	Y	20	9.39	salmon4	salmon4	salmon3	Sparse			_			Y							Y																Y										Adzera
+NLQ	N	7	NLQ/7	body	Y	38.1	9.26	salmon3	dark grey	sienna1	Sparse			_		N				Y										Y																Y				Adzera
+NLQ	N	8	NLQ/8	body	Y	43	8.64	salmon3	dark grey	sienna3	Sparse			_		Y				Y			Y			Y	Y				Y												Y		Y			Y		Adzera
+NLQ	N	10	NLQ/10	body	Y	25.8	9.12	salmon3	dark grey	dark grey	Sparse			_		Y	Y			Y			Y			Y	Y				Y														Y			Y		Adzera
+NLQ	N	14	NLQ/14	body	Y	113.9	12.06	sienna3	sienna1	sienna1	Sparse			_		Y	Y			Y																									Y					Adzera
+NLQ	N	20	NLQ/20	body	Y	28.5	9.55	dark grey	sienna4	sienna4	Sparse			_			N				Y			Y																			Y		Y					Adzera
+NLQ	N	21	NLQ/21	body	Y	17	8.13	tan4	dark grey	sienna1	Sparse			_			N			Y										Y															Y					Adzera
+NLQ	N	24	NLQ/24	body	N	45.6	10.12	sienna3	sienna3	sienna4	Sparse			_		Y																																		
+NLQ	N	27	NLQ/27	body	Y	24.1	8.11	sienna3	dark grey	sienna3	Sparse			_			Y			Y																									Y					Adzera
+NLQ	N	33	NLQ/33	body	N	15	11.01	sienna3	salmon4	salmon3	Sparse			_		Y	N																																	
+NLQ	N	34	NLQ/34	body	Y	23.4	10.92	salmon4	salmon4	salmon2	Sparse			_		Y	N			Y																									Y					Adzera
+NLQ	N	39	NLQ/39	body	N	100.2	11.87	sienna3	sienna3	sienna4	Sparse			_		Y	Y																																	
+NLQ	N	41	NLQ/41	body	N	157.4	22.04	tan4	tan4	dark grey	Sparse			_			N																																	
+NLQ	N	44	NLQ/44	body	N	68.3	13.87	salmon3	salmon3	salmon3	Sparse			_		Y	N																																	
+NLQ	N	50	NLQ/50	body	N	34.9	10.78	tan4	ND	sienna1	Sparse			_		Y	Y																																	
+NLQ	N	52	NLQ/52	body	Y	16.7	10.86	sienna4	sienna3	sienna3	Sparse			_			Y	Y						Y																Y			Y							Adzera
+NLQ	N	53	NLQ/53	body	N	66.4	11.81	sienna3	tan4	tan4	Sparse			_		Y	N																																	
+NLQ	N	57	NLQ/57	body	N	26	10.65	salmon4	salmon3	salmon3	Sparse			_		N	N																																	
+NLQ	N	58	NLQ/58	body	N	49.7	16.88	salmon3	salmon3	salmon4	Sparse			_		Y	N																																	
+NLQ	N	59	NLQ/59	body	Y	13.5	8.59	sienna4	sienna4	sienna4	Sparse			_			N							Y														Y	Y											notAdzera
+NLQ	N	62	NLQ/62	body	Y	11.4	9.84	tan4	dark grey	tan1	Sparse			_		Y		Y		Y																							Y		Y					Adzera
+NLQ	N	67	NLQ/67	body	N	18.5	11.36	sienna1	sienna1	sienna1	Sparse			_		Y	N																																	
+NLQ	N	28	NLQ/28	body	N	102.7	19.44	tan1	sienna4	sienna3	U			_		Y	N																																	
+NLQ	N	30	NLQ/30	body	N	119.3	17.17	salmon2	dark grey	dark grey	U			_		Y	N																																	
+NLQ	N	43_47	NLQ/43_47	body	Y	38.5	9.93	tan1	dark grey	sienna1	U			_			Y			Y																									Y					Adzera
+NLX	N	8	NLX/8	body	Y	19.5	10.95	sienna3	sienna3	sienna4	Moderate			_			N			Y	Y																								Y					Adzera
+NLX	N	5	NLX/5	body	Y	30.9	6.96	sienna3	sienna3	sienna3	Sparse			_			Y			Y	Y			Y																Y			Y		Y					Adzera
+NLX	N	1	NLX/1	body	N	106.3	8.78	tan4	tan4	tan4	Sparse			_		Y	Y																																	AMR
+NLX	N	4	NLX/4	body	N	62.5	8.55	sienna1	grey	sienna1	Sparse			_		Y	N																																	AMR
+NLX	N	14	NLX/14	body	Y	55	8.5	sienna3	dark grey	sienna3	Sparse			_		Y	N			Y																									Y					Adzera
+NLX	N	15	NLX/15	body	N	61.5	8.28	sienna3	dark grey	sienna3	Sparse			_		N	N																																	AMR
+NLX	N	19	NLX/19	body	Y	54.9	11.9	sienna1	dark grey	sienna1	Sparse			_		Y	Y			Y			Y			Y					Y														Y			Y		Adzera
+NLX	N	21	NLX/21	body	Y	96.6	14.97	sienna4	dark grey	dark grey	Sparse			_		Y	Y			Y	Y																						Y		Y					Adzera
+NME	N	3	NME/3	body	Y	10.7	8.26	sienna3	sienna3	sienna3	Moderate			_			Y							Y														Y												
+NME	N	2	NME/2	body	Y	71.8	11.65	tan1	grey	tan1	Sparse			_			Y	Y												Y																				Adzera
+NMH	N	12	NMH/12	body	Y	36.1	8.84	salmon3	salmon3	salmon3	Abundant			_		N	N						Y																								Y			notAdzera
+NMH	N	13	NMH/13	body	N	6.3	8.37	salmon3	salmon3	salmon3	Abundant			_		N	N																																	
+NMH	N	16	NMH/16	body	N	5	8.88	salmon3	salmon3	salmon3	Abundant			_		N	N																																	
+NMH	N	22	NMH/22	body	N	2.7	10.3	salmon3	salmon4	salmon4	Abundant			_		N	N																																	
+NMH	N	23	NMH/23	body	N	11.1	10.23	salmon4	salmon4	salmon3	Abundant			_	na		N																																	
+NMH	N	24	NMH/24	body	Y	19	10.46	salmon3	salmon3	salmon3	Abundant			_		N	N						Y																								Y			notAdzera
+NMH	N	25	NMH/25	body	N	4.1	9.1	salmon3	salmon4	salmon4	Abundant			_		N	N																																	
+NMH	N	26	NMH/26	body	N	3.6	9.89	salmon3	salmon4	salmon4	Abundant			_		N	N																																	
+NMH	N	41	NMH/41	body	N	112.3	15.8	sienna4	sienna4	dark grey	Moderate			_			Y																																	
+NMH	N	1	NMH/1	body	Y	22	8.6	sienna4	tan4	tan4	Sparse			_		N						Y	Y							Y																				notAdzera
+NMI	N	1	NMI/1	body	N	64.2	10.81	sienna3	dark grey	dark grey	Moderate			_		N																																		
+NMJ	N	1	NMJ/1	body	Y	23.1	9.57	salmon4	salmon4	salmon4	Moderate			_		Y			Y						Y			Y		Y														Y						notAdzera
+NMJ	N	2	NMJ/2	body	N	34.4	12.66	dark grey	tan4	tan4	Moderate			_		Y	N																																	
+NMJ	N	4	NMJ/4	body	N	20.5	12.35	salmon4	salmon4	salmon4	Moderate			_		Y	Y																																	
+NMJ	N	5	NMJ/5	body	N	10.1	8.15	salmon4	salmon4	salmon4	Moderate			_		Y	Y																																	
+NMJ	N	6	NMJ/6	body	N	8.9	9.08	salmon4	salmon4	salmon4	Moderate			_		Y	Y																																	
+NMJ	N	3	NMJ/3	body	N	16.5	8.58	salmon3	salmon3	salmon3	Sparse			_		Y	N																																	
+NMK	N	5	NMK/5	body	N	10.7	7.83	salmon3	dark grey	salmon3	Moderate			_		N	N																																	
+NMK	N	7	NMK/7	body	N	49.8	10.84	salmon3	salmon3	grey	Moderate			_		Y	N																																	
+NML	N	1	NML/1	body	N	30.8	13.37	tan4	dark grey	sienna1	Sparse			_		Y																																		
+NML	N	2	NML/2	body	N	97.8	17.42	dark grey	dark grey	tan4	Sparse			_		Y																																		
+NML	N	3	NML/3	body	N	266.8	17.33	tan4	dark grey	tan1	Sparse			_		Y	Y																																	
+NMN	N	7	NMN/7	body	N	20.9	9.63	sienna4	dark grey	dark grey	Moderate			_		Y																																		
+NMT	N	1	NMT/1	body	N	12.2	10.9	dark grey	dark grey	sienna4	Sparse			_		Y	Y																																	
+NNA	N	118	NNA/118	body	Y	112.9	12.02	sienna3	salmon4	salmon3	Abundant			_			N		Y			Y						Y		Y		Y																		notAdzera
+NNA	N	119	NNA/119	body	Y	64.8	11.01	sienna1	grey	sienna1	Abundant			_		N	N		Y									Y		Y																				notAdzera
+NNA	N	120	NNA/120	body	Y	20.7	9.03	sienna4	grey	sienna4	Abundant			_			Y					Y												Y																notAdzera
+NNA	N	123	NNA/123	body	Y	309.1	13.35	tan4	salmon3	sienna3	Abundant			_					Y									Y		Y																				notAdzera
+NNA	N	124	NNA/124	body	Y	108.9	12.17	sienna1	salmon3	salmon3	Abundant			_			Y		Y									Y		Y					Y															AMR
+NNA	N	126	NNA/126	body	Y	106.4	13.33	sienna3	salmon4	tan4	Abundant			_		Y	N		Y									Y		Y																				notAdzera
+NNA	N	130	NNA/130	body	Y	58	9.16	grey	grey	tan4	Abundant			_		N	Y					Y											Y																	notAdzera
+NNA	N	131	NNA/131	body	Y	53.5	13.24	salmon3	salmon4	salmon3	Abundant			_			N		Y									Y		Y																				notAdzera
+NNA	N	133	NNA/133	body	Y	62.6	10.4	salmon3	grey	salmon3	Abundant			_			Y		Y						Y												Y													Agarabi
+NNA	N	140	NNA/140	body	Y	53.4	10.18	sienna1	dark grey	sienna1	Abundant			_			N		Y					Y			Y			Y									Y											notAdzera
+NNA	N	143	NNA/143	body	Y	51.8	8.06	tan4	grey	salmon3	Abundant			_			N		Y																Y															AMR
+NNA	N	144	NNA/144	body	Y	56.3	11.71	sienna4	dark grey	sienna3	Abundant			_		Y	Y		Y									Y		Y																				notAdzera
+NNA	N	145	NNA/145	body	Y	24.2	11.04	tan4	grey	sienna4	Abundant			_			N		Y			Y						Y		Y				Y																notAdzera
+NNA	N	146	NNA/146	body	Y	35.2	10.14	tan4	grey	tan4	Abundant			_			N		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	149	NNA/149	body	Y	51.9	11.26	sienna4	grey	sienna3	Abundant			_		Y	Y		Y			Y																												notAdzera
+NNA	N	151	NNA/151	body	Y	78.4	12.99	sienna1	salmon4	tan4	Abundant			_		N			Y			Y						Y		Y		Y																		notAdzera
+NNA	N	152	NNA/152	body	Y	36.8	11.2	sienna3	dark grey	sienna3	Abundant			_					Y									Y		Y																				notAdzera
+NNA	N	155	NNA/155	body	Y	28.2	14.29	tan1	salmon4	sienna3	Abundant			_					Y			Y					Y			Y			Y		Y															AMR
+NNA	N	156	NNA/156	body	Y	45.2	8.66	sienna3	salmon4	sienna3	Abundant			_		N			Y									Y		Y														Y						AMR
+NNA	N	157	NNA/157	body	Y	345.5	16.71	salmon3	grey	salmon3	Abundant			_					Y					Y				Y		Y										Y										notAdzera
+NNA	N	158	NNA/158	body	Y	181.2	11.55	sienna3	salmon4	sienna3	Abundant			_			Y		Y				Y																					Y	Y					notAdzera
+NNA	N	159	NNA/159	body	Y	230.7	13.59	salmon3	salmon3	tan1	Abundant			_		Y			Y					Y				Y		Y											Y									Agarabi
+NNA	N	161	NNA/161	body	Y	135.8	12.73	salmon3	salmon4	salmon3	Abundant			_			N		Y			Y						Y		Y																				notAdzera
+NNA	N	167	NNA/167	body	Y	38.4	13.13	tan4	grey	salmon3	Abundant			_		N	N		Y									Y		Y																				AMR
+NNA	N	174	NNA/174	body	Y	66.4	10.7	sienna4	dark grey	salmon4	Abundant			_		N	N		Y			Y			Y			Y		Y			Y																	notAdzera
+NNA	N	175	NNA/175	body	Y	39.5	9.84	sienna3	dark grey	sienna3	Abundant			_		N			Y									Y		Y						Y														AMR
+NNA	N	176	NNA/176	body	Y	16.6	8.39	sienna3	salmon4	sienna3	Abundant			_		Y	Y		Y									Y		Y																				notAdzera
+NNA	N	178	NNA/178	body	Y	42.6	11.03	tan4	grey	sienna1	Abundant			_			N		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	179	NNA/179	body	Y	104.2	13.12	tan1	grey	sienna3	Abundant			_		N			Y			Y						Y		Y			Y																	notAdzera
+NNA	N	180	NNA/180	body	Y	39.7	9.77	sienna4	dark grey	salmon3	Abundant			_			N		Y			Y			Y		Y						Y																	notAdzera
+NNA	N	187	NNA/187	body	Y	117.8	14.65	sienna3	dark grey	salmon3	Abundant			_			Y		Y									Y		Y																				AMR
+NNA	N	189	NNA/189	body	Y	236.6	13.19	sienna3	salmon4	sienna3	Abundant			_		Y	Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	191	NNA/191	body	Y	185.5	12.8	sienna3	sienna3	sienna1	Abundant			_		N			Y			Y		Y				Y		Y			Y																	notAdzera
+NNA	N	192	NNA/192	body	Y	104.2	11.47	sienna4	salmon4	sienna3	Abundant			_			Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	193	NNA/193	body	Y	60.9	9.87	dark grey	salmon4	sienna3	Abundant			_					Y			Y						Y		Y			Y																	notAdzera
+NNA	N	195	NNA/195	body	Y	185.9	11.52	sienna1	grey	sienna1	Abundant			_			N		Y									Y		Y																				notAdzera
+NNA	N	197	NNA/197	body	Y	45.5	10.02	salmon4	sienna1	sienna1	Abundant			_			Y		Y									Y		Y																				notAdzera
+NNA	N	198	NNA/198	body	Y	17.1	9.86	sienna3	salmon4	tan4	Abundant			_					Y									Y		Y																				notAdzera
+NNA	N	199	NNA/199	body	Y	58.5	14.69	sienna3	salmon4	salmon4	Abundant			_					Y									Y		Y																				notAdzera
+NNA	N	207	NNA/207	body	Y	160.9	11.65	tan1	grey	tan1	Abundant			_			N		Y					Y				Y		Y										Y										notAdzera
+NNA	N	223	NNA/223	body	Y	77.4	13.58	tan4	grey	tan4	Abundant			_			Y		Y							Y									Y													Y		AMR
+NNA	N	231	NNA/231	base	N	248.2	15.54	tan1	sienna1	salmon3	Abundant			_																																				
+NNA	N	235	NNA/235	body	N	36.5	11.61	tan4	salmon3	grey	Abundant			_			N																																	
+NNA	N	236	NNA/236	body	N	20.9	14.62	tan4	salmon3	tan4	Abundant			_			Y																																	
+NNA	Y	240	NNA/240	body	Y	23.3	14.66	FIRE	FIRE	FIRE	Abundant			_			N		Y									Y		Y														Y						notAdzera
+NNA	N	121	NNA/121	body	Y	132.2	12.88	salmon3	salmon4	salmon3	Moderate			_			Y		Y									Y		Y																				notAdzera
+NNA	N	122	NNA/122	body	Y	28.2	12.6	sienna3	salmon4	sienna3	Moderate			_			Y		Y			Y						Y		Y																				notAdzera
+NNA	N	125	NNA/125	body	Y	63.4	12.83	sienna3	salmon3	sienna3	Moderate			_		Y	Y		Y									Y		Y																				notAdzera
+NNA	N	127	NNA/127	body	Y	41.9	10.06	salmon3	salmon4	sienna3	Moderate			_			Y					Y											Y																	notAdzera
+NNA	N	128	NNA/128	body	Y	117.2	13.17	sienna3	salmon4	sienna4	Moderate			_			Y		Y			Y						Y		Y			Y		Y															AMR
+NNA	N	129	NNA/129	body	Y	105.3	8.79	tan1	tan1	tan1	Moderate			_		Y	N		Y			Y						Y		Y			Y																	AMR
+NNA	N	132	NNA/132	body	Y	132.2	12.27	tan1	salmon4	tan1	Moderate			_		Y			Y									Y		Y																				notAdzera
+NNA	N	134	NNA/134	body	Y	84.2	11.43	salmon4	salmon3	sienna3	Moderate			_		Y						Y		Y									Y						Y											notAdzera
+NNA	N	135	NNA/135	body	Y	95.6	11.53	grey	salmon4	salmon4	Moderate			_			Y		Y			Y						Y		Y		Y																		notAdzera
+NNA	N	136	NNA/136	body	Y	102	10.42	sienna4	salmon4	sienna3	Moderate			_		Y	Y		Y									Y		Y						Y								Y						notAdzera
+NNA	N	137	NNA/137	body	Y	311.4	13.83	tan1	salmon4	tan1	Moderate			_			Y		Y			Y						Y		Y			Y		Y															AMR
+NNA	N	138	NNA/138	body	Y	112	10.26	sienna4	salmon4	grey	Moderate			_					Y									Y		Y																				notAdzera
+NNA	N	139	NNA/139	body	Y	143.5	11.38	tan4	dark grey	tan4	Moderate			_					Y			Y						Y		Y			Y																	notAdzera
+NNA	N	141	NNA/141	body	Y	74.9	13.6	tan4	salmon4	salmon3	Moderate			_			Y		Y			Y								Y			Y																	notAdzera
+NNA	N	142	NNA/142	body	Y	116.6	12.08	salmon2	grey	grey	Moderate			_			N		Y									Y		Y																				notAdzera
+NNA	N	147	NNA/147	body	Y	594.1	17.76	salmon2	salmon4	dark grey	Moderate			_			Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	148	NNA/148	body	Y	62.2	10.63	tan4	dark grey	tan4	Moderate			_		N	N					Y											Y																	notAdzera
+NNA	N	153	NNA/153	body	Y	150.7	11.75	tan4	tan4	salmon3	Moderate			_			Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	154	NNA/154	body	Y	321.6	15.46	tan1	salmon3	tan1	Moderate			_		N	N		Y								Y			Y																				notAdzera
+NNA	N	160	NNA/160	body	Y	107.1	12.1	sienna4	salmon4	sienna1	Moderate			_		N	N		Y					Y			Y			Y									Y											notAdzera
+NNA	N	162	NNA/162	body	Y	161.1	14.94	sienna4	salmon4	salmon2	Moderate			_		Y	N		Y					Y			Y			Y									Y											notAdzera
+NNA	N	163	NNA/163	body	Y	68.1	11.03	sienna3	salmon4	tan4	Moderate			_					Y									Y		Y																				notAdzera
+NNA	N	164	NNA/164	body	Y	60.6	11.52	sienna4	dark grey	salmon3	Moderate			_		Y	N		Y									Y		Y														Y						AMR
+NNA	N	165	NNA/165	body	Y	72.5	12.5	tan4	grey	sienna3	Moderate			_			Y		Y			Y						Y		Y			Y		Y															AMR
+NNA	N	166	NNA/166	body	Y	107.7	13.67	sienna1	salmon4	sienna4	Moderate			_		N	N		Y			Y						Y		Y			Y		Y															AMR
+NNA	N	168	NNA/168	body	Y	223.9	11.44	sienna3	salmon4	sienna3	Moderate			_	NA				Y									Y		Y					Y									Y						AMR
+NNA	N	169	NNA/169	body	Y	106.5	11.82	sienna4	dark grey	sienna1	Moderate			_		N	Y		Y			Y						Y		Y														Y						AMR
+NNA	N	170	NNA/170	body	Y	53.3	11.38	sienna3	salmon4	sienna3	Moderate			_		Y			Y									Y		Y														Y						AMR
+NNA	N	171	NNA/171	body	Y	75.5	16.19	tan4	salmon4	sienna3	Moderate			_			N		Y					Y				Y		Y					Y															AMR
+NNA	N	173	NNA/173	body	Y	187.6	12.09	salmon3	salmon4	salmon3	Moderate			_		Y	Y		Y									Y		Y														Y						AMR
+NNA	N	177	NNA/177	body	Y	14	8.82	salmon4	salmon4	salmon4	Moderate			_		N	N		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	181	NNA/181	body	Y	102.1	11.53	tan1	salmon4	tan1	Moderate			_			Y		Y			Y						Y		Y																				notAdzera
+NNA	N	182	NNA/182	body	Y	218.6	12.38	salmon3	salmon4	salmon3	Moderate			_			Y		Y									Y		Y							Y													Agarabi
+NNA	N	183	NNA/183	body	Y	153.5	10.63	sienna3	salmon4	sienna3	Moderate			_			Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	184	NNA/184	body	Y	35.9	10.64	salmon3	salmon3	salmon3	Moderate			_			Y		Y			Y						Y		Y				Y																AMR
+NNA	N	188	NNA/188	body	Y	39.6	12.47	salmon3	grey	sienna3	Moderate			_			Y		Y									Y		Y																				notAdzera
+NNA	N	190	NNA/190	body	Y	134	12.4	sienna4	salmon4	sienna3	Moderate			_		N			Y			Y						Y		Y			Y		Y															AMR
+NNA	N	194	NNA/194	body	Y	234.5	13.34	sienna1	salmon4	salmon3	Moderate			_					Y			Y								Y			Y																	notAdzera
+NNA	N	196	NNA/196	body	Y	191.5	13.25	sienna3	dark grey	dark grey	Moderate			_	na				Y			Y						Y		Y		Y																		notAdzera
+NNA	N	200	NNA/200	body	Y	282.4	12.96	sienna1	grey	tan4	Moderate			_			Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	202	NNA/202	body	Y	207.8	10.8	sienna4	salmon4	salmon3	Moderate			_			Y		Y			Y		Y				Y		Y			Y		Y															notAdzera
+NNA	N	203	NNA/203	body	Y	21	9.5	salmon3	salmon3	salmon3	Moderate			_		N	N		Y									Y		Y														Y						notAdzera
+NNA	N	204	NNA/204	body	Y	51.4	10.77	tan4	grey	tan4	Moderate			_			Y		Y			Y			Y			Y		Y			Y																	notAdzera
+NNA	N	206	NNA/206	body	Y	71.5	11.04	sienna3	salmon4	sienna3	Moderate			_			N		Y									Y		Y					Y															AMR
+NNA	N	208	NNA/208	body	Y	221	11.39	tan4	grey	salmon3	Moderate			_			N		Y									Y		Y						Y														AMR
+NNA	N	209	NNA/209	body	Y	34.6	9.94	tan4	salmon4	tan4	Moderate			_		N	N		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	210	NNA/210	body	Y	114.6	10.05	tan4	grey	tan4	Moderate			_			Y		Y									Y		Y							Y													Agarabi
+NNA	N	215	NNA/215	body	Y	64.8	9.63	salmon3	salmon3	salmon3	Moderate			_		N	N		Y									Y		Y						Y														AMR
+NNA	N	221	NNA/221	body	Y	232.6	12.71	salmon3	salmon4	salmon3	Moderate			_			Y		Y			Y				Y		Y		Y			Y															Y		notAdzera
+NNA	N	222	NNA/222	body	Y	138.3	12.72	salmon2	grey	sienna3	Moderate			_			Y		Y			Y				Y		Y		Y			Y															Y		notAdzera
+NNA	N	224	NNA/224	base	N	266.9	25	tan4	sienna3	salmon3	Moderate			_		Y	Y																																	
+NNA	N	227	NNA/227	body	N	640.6	21.47	dark grey	grey	salmon3	Moderate			_																																				
+NNA	N	228	NNA/228	body	N	350.9	20.36	salmon3	sienna3	salmon3	Moderate			_																																				
+NNA	N	229	NNA/229	body	N	188.7	19.07	tan4	sienna1	sienna3	Moderate			_			Y																																	
+NNA	N	230	NNA/230	body	N	267.6	19.12	sienna3	sienna3	salmon3	Moderate			_			N																																	
+NNA	N	232	NNA/232	body	N	234.6	15.4	sienna3	sienna1	salmon3	Moderate			_		Y	Y																																	notAdzera
+NNA	N	233	NNA/233	body	N	343.5	11.9	tan1	tan1	salmon3	Moderate			_		N	Y																																	notAdzera
+NNA	N	115	NNA/115	body	Y	73.3	12.01	tan4	grey	sienna4	Sparse			_			Y		Y									Y		Y																				notAdzera
+NNA	N	116	NNA/116	body	Y	137	10.66	salmon3	grey	salmon3	Sparse			_		Y	N		Y									Y		Y														Y						notAdzera
+NNA	N	117	NNA/117	body	Y	148.8	15.01	salmon2	grey	salmon3	Sparse			_		Y	Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	172	NNA/172	body	Y	228	14.34	tan4	dark grey	tan4	Sparse			_		N	N		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	185	NNA/185	body	Y	95.8	13.05	salmon3	salmon4	salmon3	Sparse			_		Y	N		Y			Y						Y		Y				Y										Y						notAdzera
+NNA	N	234	NNA/234	body	N	74.6	8.47	tan4	salmon3	salmon3	Sparse			_		Y	Y																																	
+NNA	Y	225	NNA/225	base	N	494.8	17.82	FIRE	FIRE	FIRE	U			_																																				
+NNA	Y	226	NNA/226	base	N	725.5	20	FIRE	FIRE	FIRE	U			_																																				
+NNE	N	1	NNE/1	body	N	124.1	12.33	sienna4	salmon4	sienna3	Moderate			_		Y	N																																	
+NNF	N	3_4_5	NNF/3_4_5	body	Y	110.5	18.66	salmon4	salmon4	salmon4	Abundant			_		Y								Y															Y		Y									Agarabi
+NNG	N	19	NNG/19	body	N	29.4	12.26	sienna4	sienna4	sienna4	Abundant			_		N	N																																	
+NNG	N	26	NNG/26	body	N	13.2	9.77	sienna4	sienna4	sienna4	Abundant			_			N																																	
+NNG	N	32	NNG/32	body	N	42.7	12.62	sienna4	tan4	tan4	Abundant			_			N																																	
+NNG	N	35	NNG/35	body	N	23.7	13.81	salmon4	salmon4	salmon4	Abundant			_			N																																	
+NNG	N	6	NNG/6	body	Y	38	11.04	tan4	grey	grey	Moderate			_			N		Y																							Y								AMR
+NNG	N	7	NNG/7	body	Y	35.7	12.22	tan1	grey	sienna4	Moderate			_			Y		Y					Y				Y		Y														Y						AMR
+NNG	N	8	NNG/8	body	Y	18.7	9.7	sienna3	dark grey	sienna4	Moderate			_			N		Y									Y		Y					Y															AMR
+NNG	N	11	NNG/11	body	N	24.7	10.34	salmon4	salmon4	salmon4	Moderate			_		Y	N																																	
+NNG	N	14	NNG/14	body	N	29.5	11.26	salmon4	grey	dark grey	Moderate			_			Y																																	
+NNG	N	16	NNG/16	body	N	25.9	13.06	sienna3	sienna4	sienna4	Moderate			_		Y	N																																	
+NNG	N	17	NNG/17	body	N	29.5	9.32	dark grey	sienna4	sienna4	Moderate			_																																				
+NNG	N	18	NNG/18	body	N	8.4	10.28	sienna4	sienna4	sienna4	Moderate			_		Y																																		
+NNG	N	20	NNG/20	body	N	34.5	11.4	sienna4	grey	sienna4	Moderate			_			N																																	
+NNG	N	21	NNG/21	body	N	35.3	10.84	salmon4	salmon4	salmon4	Moderate			_		Y	N																																	
+NNG	N	22	NNG/22	body	N	14.9	12.69	sienna3	sienna3	sienna3	Moderate			_			N																																	
+NNG	N	25	NNG/25	body	N	30.9	8.45	salmon4	sienna1	sienna3	Moderate			_		N	Y																																	
+NNG	N	27	NNG/27	body	N	8.1	9.97	dark grey	salmon4	sienna3	Moderate			_		N	N																																	
+NNG	N	28	NNG/28	body	N	9.1	9.83	salmon4	salmon4	salmon4	Moderate			_																																				
+NNG	N	29	NNG/29	body	N	22.3	10.69	tan1	sienna4	sienna4	Moderate			_		Y	N																																	
+NNG	N	30	NNG/30	body	N	17.8	10.5	sienna4	dark grey	sienna4	Moderate			_			N																																	
+NNG	N	33	NNG/33	body	N	29.5	13.95	sienna4	sienna4	sienna4	Moderate			_		Y																																		
+NNG	N	34	NNG/34	body	N	56.8	9.4	dark grey	grey	sienna3	Moderate			_		Y	Y																																	
+NNG	N	10	NNG/10	body	Y	11.9	12.26	salmon3	grey	salmon3	Moderate			_					Y					Y			Y			Y					Y				Y											AMR
+NNG	N	9	NNG/9	body	Y	16.9	10.6	salmon3	grey	salmon3	Sparse			_			Y		Y					Y				Y		Y											Y									Agarabi
+NNG	N	12	NNG/12	body	N	42.4	10.5	sienna3	tan4	tan4	Sparse			_		Y																																		
+NNG	N	13	NNG/13	body	N	38.1	11.21	sienna4	sienna4	sienna4	Sparse			_		Y	Y																																	
+NNG	N	15	NNG/15	body	N	27.4	9.14	sienna4	sienna4	sienna4	Sparse			_		Y	Y																																	
+NNG	N	23	NNG/23	body	N	28.5	11.05	sienna3	sienna1	sienna1	Sparse			_		Y																																		
+NNG	N	31	NNG/31	body	N	13.8	8.95	sienna4	sienna4	sienna4	Sparse			_			N																																	
+NNH	N	11	NNH/11	body	N	59.6	16.22	tan4	dark grey	dark grey	Abundant			_		N	Y																																	
+NNH	N	3	NNH/3	body	Y	21.3	8.56	sienna3	sienna3	sienna3	Moderate			_		Y	N							Y															Y											notAdzera
+NNH	N	4	NNH/4	body	Y	11.8	7.01	sienna3	sienna4	sienna3	Moderate			_			Y		Y									Y		Y						Y														AMR
+NNH	N	6	NNH/6	body	N	9	11.78	salmon3	salmon3	salmon3	Moderate			_		N	N																																	
+NNH	N	8	NNH/8	body	N	23.8	10.16	tan1	tan1	salmon4	Moderate			_																																				
+NNH	N	9	NNH/9	body	N	29.3	9.65	tan4	tan4	tan4	Moderate			_																																				
+NNH	N	10	NNH/10	body	N	14.1	12.55	salmon3	salmon3	tan4	Moderate			_		N																																		
+NNH	N	12	NNH/12	body	N	12	10.9	tan4	sienna4	sienna4	Moderate			_		Y																																		
+NNH	N	13	NNH/13	body	N	66.5	14.75	tan4	tan4	tan4	Moderate			_			Y																																	
+NNH	N	14	NNH/14	body	N	22.9	10.79	tan4	tan4	salmon3	Moderate			_			Y																																	
+NNH	N	15	NNH/15	body	N	9.4	7.98	dark grey	dark grey	dark grey	Moderate			_		Y																																		
+NNH	N	16	NNH/16	body	N	63.2	9.5	sienna3	sienna4	sienna4	Moderate			_																																				
+NNH	N	7	NNH/7	body	N	22	8.64	sienna1	sienna1	sienna1	Sparse			_		Y	Y																																	
+NNI	N	3	NNI/3	body	N	8.4	11.41	sienna4	sienna4	sienna4	Moderate			_		N	N																																	
+NNJ	N	7	NNJ/7	body	Y	40	11.13	salmon4	dark grey	sienna3	Moderate			_			N		Y								Y			Y					Y															AMR
+NNJ	N	8	NNJ/8	body	Y	13.4	7.96	dark grey	salmon3	salmon3	Moderate			_			N		Y					Y			Y			Y					Y					Y										AMR
+NNJ	N	9	NNJ/9	body	Y	5.4	6.6	sienna4	sienna4	sienna3	Moderate			_				Y																									Y							Adzera
+NNJ	N	11	NNJ/11	body	N	37.2	12.43	sienna4	salmon3	tan1	Moderate			_		Y	N																																	
+NNJ	N	12	NNJ/12	body	N	72	12.78	sienna4	salmon3	salmon3	Moderate			_			N																																	
+NNJ	N	13	NNJ/13	body	N	33.3	9.84	sienna4	tan1	sienna4	Moderate			_		Y																																		
+NNJ	N	14	NNJ/14	body	N	32.8	12.56	sienna1	salmon4	sienna4	Moderate			_																																				
+NNJ	N	15	NNJ/15	body	N	56.1	12.31	tan1	dark grey	dark grey	Moderate			_			N																																	
+NNJ	N	17	NNJ/17	body	N	19.3	7.23	sienna4	sienna4	sienna4	Moderate			_		Y	Y																																	
+NNJ	N	19	NNJ/19	body	N	39.4	10.27	sienna4	dark grey	salmon2	Moderate			_		Y	N																																	
+NNJ	N	20	NNJ/20	body	N	86.6	11.02	sienna4	sienna4	sienna4	Moderate			_			Y																																	
+NNJ	N	21	NNJ/21	body	N	32.2	10.92	sienna3	sienna4	tan1	Moderate			_																																				
+NNJ	N	22	NNJ/22	body	N	13.3	7.37	dark grey	sienna4	sienna3	Moderate			_		N	N																																	
+NNJ	N	23	NNJ/23	body	N	16.3	11.98	sienna4	sienna4	sienna4	Moderate			_			Y																																	
+NNJ	N	10	NNJ/10	body	N	41.8	10.16	sienna4	tan1	tan1	Sparse			_			Y																																	
+NNJ	N	16	NNJ/16	body	N	11	7.01	sienna4	sienna4	sienna4	Sparse			_		Y	Y																																	
+NNJ	N	18	NNJ/18	body	N	9.2	8.13	sienna4	sienna4	sienna4	Sparse			_		Y	N																																	
+NNQ	N	2	NNQ/2	body	N	43.8	16.27	salmon3	salmon4	salmon4	Abundant			_		N	N																																	
+NNQ	N	3	NNQ/3	body	N	27.9	8.85	sienna3	sienna3	sienna3	Abundant			_		Y	N																																	
+NNQ	N	4	NNQ/4	body	N	22.7	9.87	tan1	tan4	tan4	Moderate			_		Y	N																																	
+NNQ	N	5	NNQ/5	body	N	18	9	salmon3	tan4	grey	Moderate			_		N	N																																	
+NNQ	N	6	NNQ/6	body	N	14.3	11.77	salmon4	sienna1	salmon4	Moderate			_		N	N																																	
+NNQ	N	7	NNQ/7	body	N	9.7	8.29	salmon3	salmon3	salmon3	Moderate			_		Y	N																																	
+NNQ	N	9	NNQ/9	body	N	5	8.25	grey	sienna1	grey	Moderate			_																																				
+NNQ	N	10	NNQ/10	body	N	9.8	15.74	salmon3	salmon3	salmon3	Moderate			_		N	N																																	
+NNQ	N	8	NNQ/8	body	N	14.8	9.55	salmon3	salmon3	salmon3	Sparse			_																																				
+NNR	N	4	NNR/4	body	N	18.3	11.93	sienna4	salmon3	salmon4	Abundant			_		Y	N																																	
+NNR	N	3	NNR/3	body	N	16	7.5	sienna4	sienna3	sienna3	Sparse			_		Y	Y																																	
+NNX	N	1	NNX/1	body	Y	492.8	21.64	salmon3	salmon3	salmon3	Moderate			_		N	N					Y										Y																		Adzera
+NOQ	N	61	NOQ/61	body	N	10.2	9.51	salmon4	salmon4	salmon4	Moderate			_		Y	Y																																	
+NOQ	N	62	NOQ/62	body	N	13.7	8.93	sienna4	salmon4	sienna3	Moderate			_			Y																																	
+NOQ	N	68	NOQ/68	body	N	32.6	14.07	dark grey	salmon4	salmon3	Moderate			_		Y	N																																	
+NOQ	N	69	NOQ/69	body	N	10.7	7.87	tan4	dark grey	tan4	Moderate			_			Y																																	
+NOQ	N	83	NOQ/83	body	N	2.6	8.03	sienna4	salmon4	sienna4	Moderate			_																																				
+NOQ	N	89	NOQ/89	body	N	7.2	7.56	sienna4	salmon4	sienna4	Moderate			_			Y																																	
+NOQ	N	91	NOQ/91	body	N	4.5	7.35	salmon4	salmon3	salmon4	Moderate			_		Y																																		
+NOQ	N	96	NOQ/96	body	N	7.2	7.52	tan4	dark grey	dark grey	Moderate			_																																				
+NOQ	N	63	NOQ/63	body	N	30.3	13.7	tan1	dark grey	tan4	Sparse			_																																				
+NOQ	N	64	NOQ/64	body	N	8	10.46	tan4	dark grey	tan1	Sparse			_																																				
+NOQ	N	65	NOQ/65	body	N	26.6	10.26	tan1	dark grey	tan4	Sparse			_		Y	N																																	
+NOQ	N	66	NOQ/66	body	N	17	13.06	tan4	dark grey	tan4	Sparse			_		Y																																		
+NOQ	N	67	NOQ/67	body	N	7	9.68	tan1	dark grey	tan4	Sparse			_		Y	Y																																	
+NOQ	N	70	NOQ/70	body	N	26.1	13.8	tan1	sienna1	tan1	Sparse			_		Y	Y																																	
+NOQ	N	71	NOQ/71	body	N	21.8	12.72	sienna3	sienna4	tan1	Sparse			_																																				
+NOQ	N	72	NOQ/72	body	N	14.9	9.22	tan1	dark grey	dark grey	Sparse			_		Y																																		
+NOQ	N	73	NOQ/73	body	N	14.2	8.22	sienna4	sienna3	dark grey	Sparse			_			Y																																	
+NOQ	N	74	NOQ/74	body	N	37.8	13.93	sienna4	sienna4	tan1	Sparse			_		Y	N																																	
+NOQ	N	75	NOQ/75	body	N	28.1	9.16	tan4	tan4	tan1	Sparse			_		Y	N																																	
+NOQ	N	76	NOQ/76	body	N	7	11.32	tan1	dark grey	tan1	Sparse			_		Y																																		
+NOQ	N	77	NOQ/77	body	N	3.9	8.64	tan1	tan1	tan4	Sparse			_		Y	Y																																	
+NOQ	N	78	NOQ/78	body	N	44.2	12.18	tan1	tan4	tan4	Sparse			_		Y	N																																	
+NOQ	N	79	NOQ/79	body	N	47	12.37	tan	tan	tan	Sparse			_		Y	Y																																	
+NOQ	N	80	NOQ/80	body	N	5.3	4.81	dark grey	dark grey	dark grey	Sparse			_		Y	Y																																	
+NOQ	N	81	NOQ/81	body	N	21.3	9.86	tan4	dark grey	dark grey	Sparse			_																																				
+NOQ	N	82	NOQ/82	body	N	40.2	12.4	tan	dark grey	tan	Sparse			_		Y																																		
+NOQ	N	84	NOQ/84	body	N	18.6	9.31	tan1	dark grey	dark grey	Sparse			_		Y	N																																	
+NOQ	N	85	NOQ/85	body	N	5.4	7.28	tan4	dark grey	tan4	Sparse			_		Y	Y																																	
+NOQ	N	86	NOQ/86	body	N	22.5	9.64	tan1	dark grey	tan1	Sparse			_		Y	Y																																	
+NOQ	N	87	NOQ/87	body	N	15.8	9.59	tan1	dark grey	dark grey	Sparse			_		Y	Y																																	
+NOQ	N	88	NOQ/88	body	N	4.5	6.59	tan1	dark grey	dark grey	Sparse			_		Y																																		
+NOQ	N	90	NOQ/90	body	N	18.9	11.4	tan1	dark grey	dark grey	Sparse			_		Y	N																																	
+NOQ	N	92	NOQ/92	body	N	8.4	9.26	tan1	dark grey	dark grey	Sparse			_			Y																																	
+NOQ	N	93	NOQ/93	body	N	9.6	8.67	tan1	sienna4	dark grey	Sparse			_			Y																																	
+NOQ	N	94	NOQ/94	body	N	6	5.38	tan1	dark grey	tan4	Sparse			_		Y	Y																																	
+NOQ	N	95	NOQ/95	body	N	19.1	13.98	tan4	tan4	dark grey	Sparse			_		Y	N																																	
+NOQ	N	97	NOQ/97	body	N	16.8	12.32	tan1	dark grey	tan1	Sparse			_		Y	N																																	
+NOQ	N	70S	NOQ/70S	body	N	13.4	11.02	tan4	dark grey	tan4	Sparse			_		Y	N																																	
+NOQ	Y	49	NOQ/49	body	Y	5	7.49	FIRE	FIRE	FIRE	U			_			Y						Y			Y					Y																		Y	Adzera
+NOQ	Y	50	NOQ/50	body	Y	29.8	9.86	FIRE	FIRE	FIRE	U			_						Y			Y			Y		Y			Y														Y				Y	Adzera
+NOQ	Y	51	NOQ/51	body	Y	15.4	7.19	FIRE	FIRE	FIRE	U			_			Y			Y	Y		Y								Y												Y		Y					Adzera
+NOQ	Y	52	NOQ/52	body	Y	32.5	15.51	FIRE	FIRE	FIRE	U			_			N			Y	Y																						Y		Y					Adzera
+NOQ	Y	53	NOQ/53	body	Y	26.5	13.6	FIRE	FIRE	FIRE	U			_			Y			Y																										Y				Adzera
+NOQ	Y	54	NOQ/54	body	Y	91.6	15.48	FIRE	FIRE	FIRE	U			_		Y	Y			Y																										Y				Adzera
+NOQ	Y	55	NOQ/55	body	Y	20	11.05	FIRE	FIRE	FIRE	U			_			Y			Y			Y								Y																			Adzera
+NOQ	Y	104	NOQ/104	body	Y	53.4	9.44	FIRE	FIRE	FIRE	U			_						Y			Y			Y					Y														Y				Y	Adzera
+NOQ	Y	105	NOQ/105	body	Y	30.6	15.48	FIRE	FIRE	FIRE	U			_			N			Y	Y		Y				Y				Y												Y		Y					Adzera
+NOQ	Y	106	NOQ/106	body	Y	53.1	10.39	sienna1	FIRE	sienna1	U			_			Y			Y			Y			Y	Y				Y														Y				Y	Adzera
+NOT	N	4	NOT/4	body	Y	37.7	10.3	salmon4	salmon4	salmon3	Abundant			_			N							Y		Y													Y									Y		notAdzera
+NOT	N	3	NOT/3	body	Y	32.5	8.79	salmon4	salmon4	salmon3	Moderate			_			N					Y				Y							Y															Y		notAdzera
+NOT	N	7	NOT/7	body	N	149.2	11.38	salmon3	salmon3	salmon3	Moderate			_			N																																	
+NOT	N	8	NOT/8	body	N	20.6	8.89	sienna3	sienna3	sienna3	Moderate			_		Y																																		
+NOT	N	10	NOT/10	body	N	24.1	8.78	sienna3	salmon4	sienna3	Moderate			_		N	N																																	
+NOT	N	11	NOT/11	body	N	25.8	9.83	sienna4	sienna1	sienna4	Moderate			_		Y	N																																	
+NOT	N	12	NOT/12	body	N	8.3	9.7	sienna4	sienna4	sienna4	Moderate			_																																				
+NOT	N	13	NOT/13	body	N	16.8	8.66	dark grey	dark grey	dark grey	Moderate			_			N																																	
+NOT	N	1	NOT/1	body	Y	28.8	9.42	sienna4	salmon4	sienna4	Moderate			_			N					Y			Y							Y							Y											notAdzera
+NOT	N	2	NOT/2	body	Y	40.2	9.68	sienna4	salmon3	salmon3	Moderate			_			N					Y			Y							Y							Y											notAdzera
+NOU	N	1	NOU/1	body	Y	61.9	11.09	salmon3	salmon3	salmon3	Moderate			_								Y			Y	Y						Y																Y		notAdzera
+NOU	N	2	NOU/2	body	N	18.9	9.17	sienna4	dark grey	dark grey	Moderate			_																																				
+NOU	N	3	NOU/3	body	N	4.8	4.51	sienna4	dark grey	dark grey	Moderate			_																																				
+NOV	N	2	Nov-02	body	N	44.7	10.39	salmon3	sienna4	sienna4	Abundant			_		N	N																																	
+NOV	N	8	Nov-08	body	N	137.4	21.76	sienna4	sienna4	sienna4	Abundant			_			N																																	
+NOV	N	1	Nov-01	body	Y	54.7	8.97	sienna4	salmon3	sienna4	Moderate			_			N					Y													Y															
+NOV	N	3	Nov-03	body	N	18.7	10.7	sienna4	sienna4	salmon3	Moderate			_																																				
+NOV	N	4	Nov-04	body	N	17.1	10.86	sienna4	sienna4	sienna3	Moderate			_			Y																																	
+NOV	N	5	Nov-05	body	N	24.7	10.4	sienna3	salmon4	salmon4	Moderate			_			N																																	
+NOV	N	6	Nov-06	body	N	31.7	12.04	sienna3	sienna3	sienna3	Moderate			_																																				
+NOV	N	7	Nov-07	body	N	28.4	10.7	sienna4	salmon3	salmon3	Moderate			_			Y																																	
+NOV	N	9	Nov-09	body	N	125.3	13.76	sienna4	sienna4	sienna4	Moderate			_		N	N																																	
+NOV	N	11	Nov-11	body	N	76.9	11.24	sienna4	sienna4	sienna4	Moderate			_		Y	N																																	
+NOV	N	12	Nov-12	body	N	20.9	10.9	salmon3	salmon3	salmon3	Moderate			_			N																																	
+NOV	N	13	Nov-13	body	N	9.5	6.64	tan4	tan4	tan4	Moderate			_		N																																		
+NOV	N	14	Nov-14	body	N	17.8	8.16	sienna4	salmon3	salmon3	Moderate			_			N																																	
+NOX	N	1	NOX/1	body	Y	104.4	14.18	dark grey	salmon4	sienna3	Abundant			_			Y							Y															Y		Y									Agarabi
+NOX	N	2	NOX/2	body	Y	16.6	9.37	sienna4	sienna3	sienna4	Moderate			_		Y	Y					Y			Y		Y			Y		Y							Y											
+NTQ	N	1	NTQ/1	body	N	10.2	5.46	dark grey	dark grey	dark grey	Sparse			_		N	N																																	
+NVF	N	3	NVF/3	base	N	158.9	17.23	dark grey	dark grey	dark grey	Moderate			_		Y	N																																	
+NVF	N	4	NVF/4	body	N	98.5	14.69	sienna4	sienna4	sienna4	Moderate			_		N	N																																	
+NVM	N	1	NVM/1	body	Y	266	15.54	salmon4	salmon4	salmon4	Moderate			_		Y	N					Y																				Y								AMR
+NVW	N	1	NVW/1	body	Y	52.9	18.86	tan4	salmon3	tan4	Moderate			_			Y		Y					Y													Y		Y											Agarabi
+NWO	N	7	NWO/7	body	Y	20.8	8.91	tan1	tan1	dark grey	Moderate			_			Y		Y					Y			Y			Y									Y		Y									Agarabi
+NWO	N	8	NWO/8	body	N	14.4	8.22	tan4	dark grey	tan4	Moderate			_			Y																																	
+NWO	N	9	NWO/9	body	N	22	9.96	tan4	tan4	tan4	Moderate			_			N																																	
+NDO	N	138	NDO/138	rim	Y	56.6	8.8	dark grey	dark grey	dark grey	Sparse	A	A	A_A	10	Y									Y														Y											Adzera
+NDO	N	139	NDO/139	rim	Y	75.5	10.11	dark grey	dark grey	tan4	Sparse	A	A	A_A	10.5	Y	Y								Y														Y											Adzera
+NDO	N	149	NDO/149	rim	Y	89.7	12.38	salmon4	dark grey	sienna3	Sparse	A	A	A_A	10	Y	Y			Y			Y		Y					Y									Y							Y				Adzera
+NKC	N	14	NKC/14	rim	Y	46.4	11.13	sienna4	dark grey	dark grey	Sparse	A	A	A_A	12.5	Y	Y								Y															Y										Adzera
+NKD	N	38_43	NKD/38_43	rim	Y	170	10.55	tan4	tan4	tan4	Sparse	A	A	A_A	12.5		Y						Y		Y														Y											Adzera
+NKD	N	39_40_41_42	NKD/39_40_41_42	rim	Y	189.9	10.18	tan4	sienna4	tan4	Sparse	A	A	A_A	13		Y						Y		Y						Y								Y	Y										Adzera
+NLO	N	5	NLO/5	rim	Y	33.6	8.77	tan1	dark grey	tan1	Sparse	A	A	A_A	7	Y	Y	Y																									Y							Adzera
+NLO	N	10	NLO/10	rim	Y	10.1	8.36	tan1	dark grey	tan1	Sparse	A	A	A_A	NA									Y															Y											Adzera
+NLQ	N	3	NLQ/3	rim	Y	70.4	11.58	sienna3	grey	tan1	Sparse	A	A	A_A	NA	Y	Y						Y								Y											Y								Adzera
+NLQ	N	5	NLQ/5	rim	Y	221.2	11.63	salmon4	salmon4	sienna3	Sparse	A	A	A_A	NA		Y			Y	Y				Y															Y			Y		Y					Adzera
+NLQ	N	17	NLQ/17	rim	Y	25.5	7.17	salmon3	dark grey	salmon3	Sparse	A	A	A_A	NA	Y	Y						Y	Y			Y				Y									Y										Adzera
+NLQ	N	19	NLQ/19	rim	Y	256.7	13.12	sienna4	sienna4	sienna4	Sparse	A	A	A_A	10.5	Y	Y			Y	Y		Y	Y															Y				Y		Y					Adzera
+NLQ	N	6_9	NLQ/6_9	rim	Y	66.1	9.21	salmon2	dark grey	salmon2	Sparse	A	A	A_A	8.5		Y			Y			Y								Y																			Adzera
+NLX	N	9	NLX/9	rim	Y	20.8	11.14	tan1	salmon4	tan1	Sparse	A	A	A_A	NA	Y	Y			Y																									Y					Adzera
+NLX	N	7	NLX/7	rim	Y	45.8	12.64	sienna3	sienna3	sienna3	Sparse	A	A	A_A	9	Y	Y						Y				Y				Y																			Adzera
+NLX	N	11	NLX/11	rim	Y	227.7	11.96	sienna1	sienna1	sienna1	Sparse	A	A	A_A	14		N			Y				Y																Y					Y					Adzera
+NLX	N	13	NLX/13	rim	Y	109.1	10.87	sienna1	dark grey	sienna4	Sparse	A	A	A_A	12	N	Y	Y		Y				Y																Y			Y		Y					Adzera
+NLX	N	20	NLX/20	rim	Y	106	10.62	dark grey	dark grey	dark grey	Sparse	A	A	A_A	11		Y			Y	Y			Y																Y			Y		Y					Adzera
+NME	N	4	NME/4	rim	Y	8.2	6.95	tan1	dark grey	tan1	Sparse	A	A	A_A	NA		Y								Y																									Adzera
+NME	N	5	NME/5	rim	Y	21.8	6.34	dark grey	dark grey	tan4	Sparse	A	A	A_A	7	Y	Y					Y					Y			Y																				Adzera
+NME	N	6	NME/6	rim	Y	49.7	7.43	tan1	grey	tan1	Sparse	A	A	A_A	12							Y	Y				Y				Y			Y																Adzera
+NNA	N	26	NNA/26	rim	Y	108.7	12.17	salmon3	grey	dark grey	Moderate	A	I	A_I	12	N	Y		Y									Y		Y																				AMR
+NDO	N	153	NDO/153	rim	Y	142.3	11.09	tan4	grey	tan4	Sparse	A	NA	A_NA	NA	Y	Y						Y		Y									Y					Y											Adzera
+NLQ	N	4	NLQ/4	rim	Y	334	14.17	sienna4	sienna4	salmon3	Sparse	A	NA	A_NA	NA	Y	Y			Y			Y	Y							Y									Y					Y					Adzera
+NNJ	N	6	NNJ/6	rim	Y	89.9	8.6	sienna4	tan4	sienna3	Sparse	A	NA	A_NA	NA	Y	Y							Y																Y										Adzera
+NOT	N	9	NOT/9	rim	N	26.2	9.29	salmon3	salmon3	salmon3	Moderate	A	NA	A_NA	8																																			notAdzera
+NIC	N	52	NIC/52	rim	N	108.6	10.96	sienna1	tan4	tan4	Abundant	A	R	A_R	8																																			notAdzera
+NOV	N	10	Nov-10	rim	Y	29.9	11.51	sienna3	salmon4	sienna4	Moderate	A	R	A_R	8							Y			Y			Y				Y																		notAdzera
+NLX	N	2	NLX/2	rim	Y	42.5	8.18	sienna4	sienna3	tan4	Sparse	A	T	A_T	12.5	Y	Y						Y								Y											Y								Adzera
+NLX	N	10	NLX/10	rim	Y	90.8	11.83	sienna1	sienna1	sienna1	Sparse	A	T	A_T	10		Y			Y	Y			Y																Y			Y		Y					Adzera
+NLX	N	17	NLX/17	rim	Y	14.5	10.36	sienna4	sienna4	sienna4	Sparse	A	T	A_T	NA	Y							Y		Y																									Adzera
+NNA	N	82	NNA/82	rim	Y	270.6	14.09	salmon3	salmon4	salmon3	Moderate	A	T	A_T	12				Y									Y		Y				Y	Y															AMR
+NNA	N	90	NNA/90	rim	Y	32.8	9.6	tan1	salmon3	salmon3	Moderate	A	T	A_T	NA	Y			Y											Y																				AMR
+NMH	N	2	NMH/2	rim	N	12.2	8.2	tan1	tan1	tan1	Abundant	D	D	D_D	NA		N																																	
+NNA	N	9	NNA/9	rim	Y	105	12.73	sienna4	salmon3	salmon3	Moderate	D	I	D_I	12	Y			Y			Y						Y		Y				Y																notAdzera
+NME	N	1	NME/1	rim	Y	127.9	15.16	tan1	dark grey	tan1	Sparse	D	R	D_R	6.5		N									Y																								notAdzera
+NMH	N	19	NMH/19	rim	Y	12.5	11.16	tan4	salmon4	sienna3	Moderate	D	R	D_R	NA	N	N						Y				Y			Y																				notAdzera
+NMH	N	20	NMH/20	rim	Y	9.9	7.07	sienna4	dark grey	tan4	Sparse	D	R	D_R	NA		Y						Y																				Y							notAdzera
+NNA	N	12	NNA/12	rim	Y	29.3	11.63	sienna3	salmon4	sienna3	Abundant	D	R	D_R	9		Y		Y									Y		Y																				notAdzera
+NNA	N	112	NNA/112	rim	N	114.6	13.23	salmon2	grey	salmon2	Moderate	D	R	D_R	9	Y	Y																																	notAdzera
+NOT	N	6	NOT/6	body	N	63.2	9.55	salmon3	salmon3	salmon3	Moderate			_																																				notAdzera
+NNA	N	10	NNA/10	rim	Y	65.7	11.25	salmon3	salmon4	salmon3	Abundant	D	T	D_T	12	N	Y		Y									Y		Y																				notAdzera
+NNA	N	7	NNA/7	rim	Y	106.6	10.44	tan1	grey	sienna1	Moderate	D	T	D_T	23		Y		Y			Y						Y		Y			Y																	notAdzera
+NNA	N	8	NNA/8	rim	Y	88.1	13.7	salmon3	salmon4	salmon3	Moderate	D	T	D_T	10				Y									Y		Y																				notAdzera
+NNA	N	11	NNA/11	rim	Y	46.1	11.03	tan1	tan4	tan1	Moderate	D	T	D_T	10.5		Y		Y									Y		Y					Y															AMR
+NOQ	Y	47	NOQ/47	rim	Y	22.2	12.66	FIRE	FIRE	FIRE	U	I	R	I_R	NA	Y				Y			Y				Y				Y														Y					Adzera
+NOQ	Y	48	NOQ/48	rim	Y	19	13.14	FIRE	FIRE	FIRE	U	I	R	I_R	NA					Y			Y				Y				Y														Y					Adzera
+NOQ	Y	100	NOQ/100	rim	Y	109.1	12.15	FIRE	FIRE	FIRE	U	I	R	I_R	13		Y			Y			Y				Y				Y																		Y	Adzera
+NOQ	Y	103	NOQ/103	rim	Y	126.5	13.29	FIRE	FIRE	FIRE	U	I	R	I_R	12.5	Y				Y			Y			Y					Y																		Y	Adzera
+NMH	N	21	NMH/21	rim	N	5.5	6.41	tan4	dark grey	dark grey	Abundant	NA	NA	NA_NA	na	Y	N																																	
+NNA	N	6	NNA/6	rim	Y	117.8	11.3	tan1	salmon4	tan1	Sparse	O	D	O_D	11				Y					Y		Y									Y						Y							Y		AMR
+NNA	Y	241	NNA/241	rim	Y	287.5	12.41	sienna1	FIRE	sienna1	U	O	D	O_D	10.5				Y			Y						Y		Y			Y																	AMR
+NIE	N	229	NIE/229	rim	Y	100.8	10.56	tan4	grey	sienna3	Abundant	O	I	O_I	14	Y			Y																Y															AMR
+NKC	N	15	NKC/15	rim	Y	36.6	12.39	salmon3	grey	salmon3	Moderate	O	I	O_I	11.5		Y		Y											Y																				AMR
+NKC	N	23	NKC/23	rim	Y	5.8	7.91	sienna1	dark grey	salmon3	Moderate	O	I	O_I	NA	Y																																		notAdzera
+NLX	N	6	NLX/6	rim	Y	93.1	10.7	sienna3	dark grey	sienna4	Abundant	O	I	O_I	13				Y																Y															AMR
+NNA	N	16	NNA/16	rim	Y	262.5	11.97	sienna3	salmon4	sienna3	Abundant	O	I	O_I	10.5		N		Y			Y						Y		Y				Y																AMR
+NNA	N	93	NNA/93	rim	Y	65.8	12.58	sienna1	dark grey	sienna3	Moderate	O	I	O_I	14				Y									Y		Y																				AMR
+NNA	N	95	NNA/95	rim	Y	71.1	12.87	sienna1	sienna1	sienna1	Moderate	O	I	O_I	NA				Y					Y			Y	Y		Y					Y			Y						Y						AMR
+NNA	Y	239	NNA/239	rim	Y	237.3	10.71	FIRE	FIRE	FIRE	U	O	I	O_I	10		Y		Y																Y															AMR
+NNF	N	2	NNF/2	rim	Y	183.8	14.19	dark grey	salmon3	sienna4	Moderate	O	I	O_I	11	Y	Y							Y															Y	Y										Agarabi
+NKD	N	59	NKD/59	rim	Y	27.8	9.6	tan1	dark grey	tan4	Abundant	O	NA	O_NA	12	N	N		Y											Y																				AMR
+NLX	N	18	NLX/18	rim	N	32.2	9.26	dark grey	salmon4	tan4	Moderate	O	NA	O_NA	NA																																			AMR
+NNA	N	89	NNA/89	rim	Y	257.4	10.27	tan4	salmon3	salmon3	Abundant	O	NA	O_NA	NA		Y		Y			Y					Y			Y		Y			Y															AMR
+NNA	N	97	NNA/97	rim	Y	246.9	11.68	tan1	salmon3	tan1	Abundant	O	NA	O_NA	12		Y		Y					Y			Y			Y											Y									Agarabi
+NNA	N	150	NNA/150	rim	Y	55.7	12.94	tan1	grey	sienna3	Moderate	O	NA	O_NA	NA				Y									Y		Y																				notAdzera
+NNA	N	186	NNA/186	rim	Y	227.1	13.89	tan1	salmon4	sienna1	Moderate	O	NA	O_NA	13		Y		Y			Y						Y		Y			Y																	AMR
+NNA	N	205	NNA/205	rim	Y	127	11.43	tan4	salmon4	tan4	Moderate	O	NA	O_NA	NA		Y		Y									Y		Y					Y															AMR
+NNG	N	24	NNG/24	rim	N	39.7	10.23	tan1	dark grey	tan4	Moderate	O	NA	O_NA	NA	Y	Y																																	AMR
+NKF	N	16	NKF/16	rim	Y	61.6	10.6	salmon4	salmon4	salmon4	Moderate	O	O	O_O	NA		Y		Y			Y			Y		Y			Y		Y																		AMR
+NKF	N	14_15	NKF/14_15	rim	Y	64.3	11	salmon4	salmon4	salmon4	Moderate	O	O	O_O	12.5	Y	Y																																	AMR
+NDO	N	134	NDO/134	rim	Y	79.9	11.97	salmon3	grey	salmon3	Moderate	O	R	O_R	9	N	N						Y	Y																Y							Y			notAdzera
+NIC	N	8	NIC/8	rim	N	16.9	10.84	sienna3	dark grey	sienna3	Moderate	O	R	O_R	NA	N	N																																	AMR
+NIC	N	53	NIC/53	rim	N	30.8	9.68	sienna4	dark grey	sienna3	Moderate	O	R	O_R	8																																			AMR
+NIE	N	326	NIE/326	rim	Y	113	13.2	sienna4	sienna4	sienna3	Abundant	O	R	O_R	12	Y								Y															Y	Y										AMR
+NIO	N	1	NIO/1	rim	N	225.5	12.7	dark grey	dark grey	dark grey	Moderate	O	R	O_R	11	Y																																		AMR
+NKD	N	36	NKD/36	rim	Y	67.2	12.52	sienna4	sienna4	sienna4	Abundant	O	R	O_R	NA		Y																																	AMR
+NKD	N	73	NKD/73	rim	N	82.4	7.08	salmon3	grey	sienna4	Sparse	O	R	O_R	10.5	N	N																																	AMR
+NLX	N	3	NLX/3	rim	N	92.6	8.4	sienna4	sienna3	sienna4	Abundant	O	R	O_R	11.5		Y																																	AMR
+NLX	N	12	NLX/12	rim	Y	134	10.84	tan4	dark grey	tan4	Sparse	O	R	O_R	14				Y					Y			Y	Y		Y										Y	Y									Agarabi
+NNA	N	18	NNA/18	rim	Y	112.1	10.15	salmon3	salmon3	salmon3	Abundant	O	R	O_R	9				Y			Y						Y		Y			Y																	AMR
+NNA	N	28	NNA/28	rim	Y	160.6	10.53	salmon3	grey	salmon3	Abundant	O	R	O_R	12	Y			Y			Y						Y		Y				Y	Y															AMR
+NNA	N	40	NNA/40	rim	Y	286.8	16.5	sienna1	sienna1	tan4	Abundant	O	R	O_R	14.5				Y					Y				Y		Y										Y										AMR
+NNA	N	42	NNA/42	rim	Y	128.3	10.6	salmon3	salmon3	salmon3	Abundant	O	R	O_R	NA		N		Y			Y						Y		Y			Y																	AMR
+NNA	N	44	NNA/44	rim	Y	946.9	14.91	sienna1	salmon4	salmon3	Abundant	O	R	O_R	12.5				Y			Y						Y		Y			Y																	AMR
+NNA	N	55	NNA/55	rim	Y	397.9	16.37	tan1	salmon3	sienna3	Abundant	O	R	O_R	10	Y	Y		Y			Y						Y		Y			Y																	AMR
+NNA	N	67	NNA/67	rim	Y	110.9	10.86	salmon3	salmon4	salmon3	Abundant	O	R	O_R	NA	Y	Y		Y									Y		Y																				AMR
+NNA	N	75	NNA/75	rim	Y	221.6	11.56	sienna3	salmon4	tan4	Abundant	O	R	O_R	10.5	N	N		Y			Y						Y		Y			Y																	AMR
+NNA	N	81	NNA/81	rim	Y	294.5	11.38	tan4	salmon4	sienna3	Abundant	O	R	O_R	12		Y		Y									Y		Y					Y															AMR
+NNA	N	94	NNA/94	rim	Y	53.7	10.75	salmon3	salmon3	salmon3	Abundant	O	R	O_R	NA				Y						Y		Y		Y																					AMR
+NNA	N	4	NNA/4	rim	Y	391.6	13.03	tan1	salmon4	sienna4	Moderate	O	R	O_R	12		N		Y			Y				Y		Y		Y		Y																Y		AMR
+NNA	N	15	NNA/15	rim	Y	432.7	12.48	sienna1	grey	grey	Moderate	O	R	O_R	12				Y			Y						Y		Y			Y																	AMR
+NNA	N	20	NNA/20	rim	Y	128.1	13.8	sienna1	grey	sienna1	Moderate	O	R	O_R	14				Y									Y		Y																				AMR
+NNA	N	22	NNA/22	rim	Y	172.2	11.62	salmon3	salmon3	salmon3	Moderate	O	R	O_R	11		N		Y			Y						Y		Y			Y																	AMR
+NNA	N	23	NNA/23	rim	Y	40.3	10.14	grey	salmon4	sienna3	Moderate	O	R	O_R	NA		N		Y					Y												Y					Y									Agarabi
+NNA	N	30	NNA/30	rim	Y	90	10.87	salmon2	dark grey	salmon3	Moderate	O	R	O_R	9				Y									Y		Y																				AMR
+NNA	N	34	NNA/34	rim	Y	391.3	12.2	sienna4	salmon4	sienna1	Moderate	O	R	O_R	13.5				Y			Y						Y		Y			Y																	AMR
+NNA	N	37	NNA/37	rim	Y	177.1	12.4	tan1	dark grey	tan1	Moderate	O	R	O_R	7.5		Y		Y									Y		Y																				AMR
+NNA	N	50	NNA/50	rim	Y	65.6	12.3	sienna3	salmon3	salmon3	Moderate	O	R	O_R	13.5				Y									Y		Y																				AMR
+NNA	N	52	NNA/52	rim	Y	41.6	11.92	salmon3	salmon3	tan4	Moderate	O	R	O_R	NA				Y									Y		Y																				AMR
+NNA	N	53	NNA/53	rim	Y	90.3	14.46	tan1	grey	tan1	Moderate	O	R	O_R	11		Y		Y																															AMR
+NNA	N	61	NNA/61	rim	Y	374.4	14.25	tan1	salmon3	salmon3	Moderate	O	R	O_R	13.5		Y					Y						Y					Y																	AMR
+NNA	N	62	NNA/62	rim	Y	203.2	14.25	tan1	salmon4	sienna3	Moderate	O	R	O_R	12	Y			Y			Y						Y		Y																				AMR
+NNA	N	63	NNA/63	rim	Y	229.8	12.28	sienna3	grey	salmon3	Moderate	O	R	O_R	8	Y			Y			Y						Y		Y			Y																	AMR
+NNA	N	64	NNA/64	rim	Y	257.1	13.03	tan4	salmon4	salmon3	Moderate	O	R	O_R	11.5				Y			Y						Y		Y			Y																	AMR
+NNA	N	65	NNA/65	rim	Y	216.3	11.82	sienna1	sienna3	sienna3	Moderate	O	R	O_R	11				Y			Y						Y		Y			Y																	AMR
+NNA	N	66	NNA/66	rim	Y	97.3	12.52	salmon3	dark grey	salmon3	Moderate	O	R	O_R	NA		Y		Y									Y		Y																				AMR
+NNA	N	68	NNA/68	rim	Y	167.3	11.1	salmon3	salmon4	salmon3	Moderate	O	R	O_R	12.5	Y	Y		Y									Y		Y						Y														AMR
+NNA	N	69	NNA/69	rim	Y	210.5	12.2	tan1	salmon3	salmon3	Moderate	O	R	O_R	NA				Y								Y			Y					Y															AMR
+NNA	N	73	NNA/73	rim	Y	247	12.88	tan4	dark grey	tan4	Moderate	O	R	O_R	13.5				Y									Y		Y						Y														AMR
+NNA	N	74	NNA/74	rim	Y	434.6	11.81	salmon2	grey	tan1	Moderate	O	R	O_R	11.5				Y			Y						Y		Y			Y																	AMR
+NNA	N	78	NNA/78	rim	Y	173.8	12.58	tan4	salmon4	salmon3	Moderate	O	R	O_R	11																																			AMR
+NNA	N	79	NNA/79	rim	Y	165.9	14.47	salmon2	tan4	salmon2	Moderate	O	R	O_R	14				Y									Y		Y						Y								Y						AMR
+NNA	N	80	NNA/80	rim	Y	354.6	13.83	salmon3	dark grey	sienna3	Moderate	O	R	O_R	14				Y						Y																			Y						AMR
+NNA	N	91	NNA/91	rim	Y	99.8	13.18	tan4	salmon3	salmon3	Moderate	O	R	O_R	NA		Y		Y																Y															AMR
+NNA	N	96	NNA/96	rim	Y	169.4	13.71	sienna3	salmon4	sienna3	Moderate	O	R	O_R	6.5	N			Y			Y						Y		Y			Y																	AMR
+NNA	N	98	NNA/98	rim	Y	35.1	10.02	sienna3	salmon4	sienna3	Moderate	O	R	O_R	NA	Y																																		AMR
+NNA	N	110	NNA/110	rim	N	250.1	9.2	sienna3	grey	salmon3	Moderate	O	R	O_R	19																																			AMR
+NNA	N	111	NNA/111	rim	N	178.5	10.69	sienna1	sienna1	sienna1	Moderate	O	R	O_R	12		Y																																	AMR
+NNA	N	113	NNA/113	rim	N	36.3	9.3	salmon3	salmon4	sienna3	Moderate	O	R	O_R	6.5	Y	N																																	AMR
+NNA	N	114	NNA/114	rim	N	50	9.04	salmon3	tan4	salmon3	Moderate	O	R	O_R	16																																			AMR
+NNA	N	2	NNA/2	rim	Y	88.3	6.94	salmon3	U	grey	U	O	R	O_R	4		N		Y								Y		Y						Y															AMR
+NNA	Y	238	NNA/238	rim	Y	221.9	14.43	sienna1	sienna1	sienna1	U	O	R	O_R	11.5				Y									Y		Y																				AMR
+NNA	Y	243	NNA/243	rim	Y	202.3	13.36	FIRE	FIRE	FIRE	U	O	R	O_R	14	N			Y			Y						Y		Y			Y		Y															AMR
+NNA	Y	246	NNA/246	rim	Y	30.7	8.94	sienna1	sienna1	sienna1	U	O	R	O_R	NA				Y														Y			Y	Y													AMR
+NNA	Y	248	NNA/248	rim	Y	193.4	8.25	sienna1	sienna1	sienna1	U	O	R	O_R	12.5		N		Y			Y						Y		Y			Y																	AMR
+NNH	N	5	NNH/5	rim	N	21.6	10.09	tan4	salmon4	salmon4	Moderate	O	R	O_R	10	Y	N																							Y										AMR
+NOT	N	5	NOT/5	rim	N	20.7	9.34	salmon3	salmon3	salmon3	Sparse	O	R	O_R	8.5																																			AMR
+NGM	N	1	NGM/1	rim	Y	264.9	10.99	dark grey	salmon4	dark grey	Abundant	O	T	O_T	9.5	Y	N		Y			Y		Y			Y	Y		Y									Y											AMR
+NIE	N	1	NIE/1	rim	Y	79.1	9.75	sienna1	sienna1	sienna1	Moderate	O	T	O_T		N	N		Y																Y															AMR
+NIE	N	250	NIE/250	rim	Y	12.7	6.86	tan4	salmon2	tan4	Moderate	O	T	O_T	NA				Y																		Y													notAdzera
+NIE	N	255	NIE/255	rim	Y	7	7	tan4	dark grey	tan4	Sparse	O	T	O_T	NA				Y																Y															AMR
+NKD	N	64	NKD/64	rim	Y	2.8	9.13	tan4	salmon4	tan4	Moderate	O	T	O_T	NA		Y							Y																	Y									Agarabi
+NKD	N	37	NKD/37	rim	Y	19.3	10.56	salmon3	grey	salmon3	Moderate	O	T	O_T	NA																																			AMR
+NLX	N	16	NLX/16	rim	Y	28.9	5.61	sienna3	dark grey	dark grey	Abundant	O	T	O_T	9.5																																			AMR
+NNA	N	19	NNA/19	rim	Y	80.1	12.2	salmon3	salmon4	salmon3	Abundant	O	T	O_T	15		N		Y									Y		Y																				AMR
+NNA	N	24	NNA/24	rim	Y	277.2	13.68	sienna3	salmon4	sienna3	Abundant	O	T	O_T	13	Y	N		Y			Y						Y		Y			Y																	AMR
+NNA	N	25	NNA/25	rim	Y	42.3	11.37	salmon3	salmon4	salmon3	Abundant	O	T	O_T	7	N	Y		Y									Y		Y																				AMR
+NNA	N	27	NNA/27	rim	Y	65.2	9.81	salmon2	grey	salmon2	Abundant	O	T	O_T	14				Y									Y		Y																				AMR
+NNA	N	32	NNA/32	rim	Y	129.2	11.12	sienna3	salmon3	sienna3	Abundant	O	T	O_T	7.5		Y					Y			Y		Y					Y																		AMR
+NNA	N	39	NNA/39	rim	Y	147.8	12.23	salmon3	salmon3	salmon3	Abundant	O	T	O_T	11.5		N		Y									Y		Y																				AMR
+NNA	N	43	NNA/43	rim	Y	464	11	salmon2	dark grey	salmon3	Abundant	O	T	O_T	14				Y									Y		Y														Y						AMR
+NNA	N	59	NNA/59	rim	Y	70.2	12.07	salmon3	grey	sienna1	Abundant	O	T	O_T	12		Y		Y									Y		Y			Y																	AMR
+NNA	N	88	NNA/88	rim	Y	224.6	15.3	dark grey	salmon4	tan4	Abundant	O	T	O_T	9				Y																Y															AMR
+NNA	N	99	NNA/99	rim	Y	27.9	9.48	sienna3	dark grey	sienna4	Abundant	O	T	O_T	NA																																			AMR
+NNA	N	107	NNA/107	rim	Y	12.4	11.41	sienna3	dark grey	grey	Abundant	O	T	O_T	NA																																			AMR
+NNA	N	3	NNA/3	rim	Y	567.4	11.08	tan1	grey	sienna3	Moderate	O	T	O_T	14				Y			Y				Y	Y			Y			Y		Y	Y												Y		AMR
+NNA	N	5	NNA/5	rim	Y	201.8	13.99	sienna4	salmon4	tan4	Moderate	O	T	O_T	9.5				Y			Y				Y		Y		Y				Y		Y												Y		AMR
+NNA	N	17	NNA/17	rim	Y	112.7	10.72	sienna3	salmon4	salmon3	Moderate	O	T	O_T	10.5		N		Y									Y		Y					Y															AMR
+NNA	N	31	NNA/31	rim	Y	132	12.35	sienna1	salmon4	sienna3	Moderate	O	T	O_T	10				Y			Y						Y		Y				Y																AMR
+NNA	N	33	NNA/33	rim	Y	366.2	14.53	tan1	salmon4	tan1	Moderate	O	T	O_T	10		N		Y			Y						Y		Y			Y																	AMR
+NNA	N	35	NNA/35	rim	Y	65.3	9.8	sienna3	salmon3	sienna3	Moderate	O	T	O_T	9.5		Y		Y									Y		Y																				AMR
+NNA	N	45	NNA/45	rim	Y	349.5	12.38	tan1	salmon4	salmon3	Moderate	O	T	O_T	10				Y			Y						Y		Y			Y																	AMR
+NNA	N	57	NNA/57	rim	Y	400.6	15.39	tan1	sienna3	sienna3	Moderate	O	T	O_T	11		Y		Y																															AMR
+NNA	N	60	NNA/60	rim	Y	255.4	10.95	tan4	salmon4	salmon3	Moderate	O	T	O_T	11	Y			Y									Y		Y																				AMR
+NNA	N	70	NNA/70	rim	Y	121.9	11.34	tan1	salmon4	salmon3	Moderate	O	T	O_T	10.5	N	N		Y									Y		Y																				AMR
+NNA	N	76	NNA/76	rim	Y	402	15.39	tan4	salmon4	tan4	Moderate	O	T	O_T	10.5		Y		Y									Y		Y														Y						AMR
+NNA	N	83	NNA/83	rim	Y	185.2	14.45	tan4	salmon4	tan4	Moderate	O	T	O_T	9		N		Y									Y		Y																				AMR
+NNA	N	85	NNA/85	rim	Y	84.3	9.85	salmon3	salmon3	salmon3	Moderate	O	T	O_T	NA		N		Y			Y						Y		Y																				AMR
+NNA	N	86	NNA/86	rim	Y	15.1	8.24	salmon3	salmon4	salmon3	Moderate	O	T	O_T	NA				Y									Y		Y																				AMR
+NNA	N	92	NNA/92	rim	Y	80.9	13.7	salmon3	salmon3	tan4	Moderate	O	T	O_T	8.5	Y	N		Y									Y		Y																				AMR
+NNA	N	100	NNA/100	rim	Y	42.6	14.16	sienna4	dark grey	sienna3	Moderate	O	T	O_T	NA																																			AMR
+NNA	N	101	NNA/101	rim	Y	96.7	10.59	sienna4	salmon3	sienna4	Moderate	O	T	O_T	12																																			AMR
+NNA	N	102	NNA/102	rim	Y	20.5	8.48	sienna4	salmon4	sienna4	Moderate	O	T	O_T	11																																			AMR
+NNA	N	103	NNA/103	rim	Y	39.6	10.55	dark grey	dark grey	dark grey	Moderate	O	T	O_T	11.5																																			AMR
+NNA	N	104	NNA/104	rim	Y	12.6	8.99	sienna4	sienna3	sienna3	Moderate	O	T	O_T	NA																																			AMR
+NNA	N	105	NNA/105	rim	Y	21.6	8.57	salmon3	salmon3	salmon3	Moderate	O	T	O_T	NA																																			AMR
+NNA	N	106	NNA/106	rim	Y	133	12.4	tan4	salmon4	sienna4	Moderate	O	T	O_T	NA	Y	Y																																	AMR
+NNA	N	108	NNA/108	rim	Y	45.7	7.92	sienna3	grey	dark grey	Moderate	O	T	O_T	NA	N																																		AMR
+NNA	N	109	NNA/109	rim	Y	121.5	8.01	tan4	grey	sienna3	Moderate	O	T	O_T	11																																			AMR
+NNA	Y	242	NNA/242	rim	Y	164.2	9.13	sienna1	sienna1	sienna1	Moderate	O	T	O_T	10.5	N			Y																Y	Y						Y								AMR
+NNA	Y	244	NNA/244	rim	Y	160.4	12.54	FIRE	FIRE	FIRE	Moderate	O	T	O_T	12		N		Y			Y						Y		Y		Y																		AMR
+NNA	Y	245	NNA/245	rim	Y	166.4	12.69	FIRE	FIRE	FIRE	Moderate	O	T	O_T	11	N			Y			Y						Y		Y			Y																	AMR
+NNA	Y	247	NNA/247	rim	Y	32.9	11.47	FIRE	FIRE	FIRE	Moderate	O	T	O_T	NA		Y																																	AMR
+NNA	N	38	NNA/38	rim	Y	34.2	11.75	tan4	salmon2	salmon2	Sparse	O	T	O_T	NA				Y									Y		Y																				AMR
+NNA	N	71	NNA/71	rim	Y	240.7	12.25	sienna3	dark grey	tan4	Sparse	O	T	O_T	12	Y	Y		Y				Y				Y	Y		Y			Y																	AMR
+NNA	Y	36	NNA/36	rim	Y	338	13.64	FIRE	FIRE	FIRE	U	O	T	O_T	13	Y	N		Y				Y	Y			Y			Y				Y							Y									Agarabi
+NNA	Y	41	NNA/41	rim	Y	309.2	12.02	FIRE	FIRE	FIRE	U	O	T	O_T	10	Y	Y		Y			Y		Y	Y			Y		Y			Y		Y				Y											AMR
+NNA	N	237	NNA/237	rim	Y	67.5	8.55	salmon2	sienna1	sienna1	U	O	T	O_T	10.5				Y								Y			Y																				AMR
+NOQ	Y	101	NOQ/101	rim	Y	49.4	9.9	FIRE	FIRE	FIRE	U	O	T	O_T	NA	Y	N						Y		Y			Y			Y																			Adzera
+NOQ	Y	102	NOQ/102	rim	Y	37.7	10.85	sienna1	FIRE	sienna1	U	O	T	O_T	10		Y						Y		Y			Y			Y																			Adzera
+NNJ	N	5	NNJ/5	rim	Y	47.5	11.3	tan4	grey	tan4	Abundant	O	W	O_W	NA	Y	Y							Y																										AMR
