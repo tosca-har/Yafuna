@@ -1,5 +1,5 @@
 # Yafuna
-R code for Yafuna/Yonkie manuscript
+R code for Yafuna/Yonkie manuscript UNFINISHED
 
 Code for exploratory analysis of Agarabi and Adzera pottery characteristics.
 Diagnostic piece characteristics were used to train a model to estimate the levels of Adzera pottery in a collection of non-diagnostic pieces.
