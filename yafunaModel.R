@@ -211,6 +211,12 @@ RMSE(actual, incl_col_in)
 RMSE(actual, incl_col_core)
 RMSE(actual, incl_be_col_in)
 
+error <- RMSE(actual, incl_be_col_in)^2 # error in percent for incl_be_col_in model
+error2 <- error *2 # 2 x error equivalent to 95% confidence interval.
+
+
+
+
 #Coefficient of determination
 1 - (sum((inclusionModel - actual)^2)/sum((actual - mean(actual))^2)) 
 1 - (sum((incl_be - actual)^2)/sum((actual - mean(actual))^2)) 
@@ -342,9 +348,12 @@ c <- seq(from=1.2, to=dim(siteAdzera)[1], by=2)
 d <- c+1 
 ggplot(data=siteAdzera, aes(x=site, y=AdzeraDiagnostic, fill=group)) +geom_bar(stat="identity", color="black", size=.3)+scale_fill_manual(values=c("purple","blue","green","orange","brown","red","magenta"))+ labs(title="Diagnostic sherds",x=" ", y = "Adzera Proportion (%)")+coord_cartesian(ylim=c(0, 115), expand=FALSE)+scale_y_continuous(breaks=seq(from=0, to=100, by=20))+theme_classic()+ theme(axis.line.x=element_blank() ,text = element_text(size = 5),legend.position="none",axis.text.x = element_text(angle = 90,vjust=0.5,color=as.character(thcol)),axis.ticks = element_line(colour = "black", size = 0.2 )) + annotate("text", x = c, y = 112, label = as.vector(siteAdzera$TotalDiagnosticN)[c], color=thcol[c], size=1.2, vjust=1)+ annotate("text", x = d, y = 107, label = as.vector(siteAdzera$TotalDiagnosticN)[d], color=thcol[d], size=1.2,vjust=1)
 ggsave("diagnosticPer.png", width = 9, height = 5, units = "cm")
+#add error bars based on 1 x SE.
+ggplot(data=siteAdzera, aes(x=site, y=AdzeraNonDiagnostic, fill=group)) +geom_bar(stat="identity", color="black", size=.3)+scale_fill_manual(values=c("purple","blue","green","orange","brown","red","magenta"))+ labs(title="Non-Diagnostic sherds",x=" ", y = "Adzera Proportion (%)")+coord_cartesian(ylim=c(0, 115), expand=FALSE)+scale_y_continuous(breaks=seq(from=0, to=100, by=20))+
+  geom_errorbar( aes(x=site, ymin=AdzeraNonDiagnostic-error, ymax=AdzeraNonDiagnostic+error), width=0.5, colour="black", alpha=0.5, size=.3)+theme_classic()+ theme(axis.line.x=element_blank() ,text = element_text(size = 5),legend.position="none",axis.text.x = element_text(angle = 90,vjust=0.5,color=as.character(thcol)),axis.ticks = element_line(colour = "black", size = 0.2 )) + annotate("text", x = c, y = 112, label = as.vector(siteAdzera$TotalNonDiagnosticN)[c], color=thcol[c], size=1.2, vjust=1)+ annotate("text", x = d, y = 107, label = as.vector(siteAdzera$TotalNonDiagnosticN)[d], color=thcol[d], size=1.2,vjust=1)
 
-ggplot(data=siteAdzera, aes(x=site, y=AdzeraNonDiagnostic, fill=group)) +geom_bar(stat="identity", color="black", size=.3)+scale_fill_manual(values=c("purple","blue","green","orange","brown","red","magenta"))+ labs(title="Non-Diagnostic sherds",x=" ", y = "Adzera Proportion (%)")+coord_cartesian(ylim=c(0, 115), expand=FALSE)+scale_y_continuous(breaks=seq(from=0, to=100, by=20))+theme_classic()+ theme(axis.line.x=element_blank() ,text = element_text(size = 5),legend.position="none",axis.text.x = element_text(angle = 90,vjust=0.5,color=as.character(thcol)),axis.ticks = element_line(colour = "black", size = 0.2 )) + annotate("text", x = c, y = 112, label = as.vector(siteAdzera$TotalNonDiagnosticN)[c], color=thcol[c], size=1.2, vjust=1)+ annotate("text", x = d, y = 107, label = as.vector(siteAdzera$TotalNonDiagnosticN)[d], color=thcol[d], size=1.2,vjust=1)
-ggsave("NondiagnosticPer.png", width = 9, height = 5, units = "cm")
+ggsave("NondiagnosticPerWerr.png", width = 9, height = 5, units = "cm")
+
 
 match4[is.na(match4)] <- 0 
 match[is.na(match)] <- 0 
@@ -354,8 +363,18 @@ toplot <- siteAdzera_cut %>% pivot_longer(!c(site,Total), names_to = "Sherd", va
 e <- seq(from=1.2, to=dim(toplot)[1], by=4) 
 f <- e+2 
 ggplot(data=toplot, aes(x=site, y=Number, fill=Sherd)) +geom_bar(stat="identity", color="black", size=.3)+scale_fill_manual(values=c('light blue','pink'))+ labs(title="Number of Adzera Sherds",x=" ", y = "Number of Adzera Sherds")+coord_cartesian(ylim=c(0, 45), expand=FALSE)+scale_y_continuous(breaks=seq(from=0, to=45, by=10))+theme_classic()+ theme(text = element_text(size = 5),legend.title = element_blank(),legend.key.size = unit(0.3, "cm"),legend.position="bottom",axis.text.x = element_text(angle = 90,vjust=0.5,color=as.character(thcol)),axis.ticks = element_line(colour = "black", size = 0.2))+ annotate("text", x = c, y = 44, label = as.vector(toplot$Total)[e], color=thcol[c], size=1.2, vjust=1)+ annotate("text", x = d, y = 45, label = as.vector(toplot$Total)[f], color=thcol[d], size=1.2,vjust=1)
-
 ggsave("adzeraNum.png", width = 9, height = 6, units = "cm")
+
+# should it be error times number or error times total sherds?
+toplot2 <- toplot %>% mutate(error= ifelse(Sherd=="Diagnostic",0,Total*error/100)) 
+toplot2$Sherd <- factor(toplot2$Sherd, levels=c("Non_Diagnostic","Diagnostic"))
+bothNum <- toplot2 %>% group_by(site) %>% summarise(bothN = sum(Number))
+toplot2 <- toplot2 %>% left_join(bothNum) %>% mutate(minerror= ifelse(Sherd=="Diagnostic",0,bothN-error), maxerror= ifelse(Sherd=="Diagnostic",0,bothN+error)) 
+
+ggplot(data=toplot2, aes(x=site, y=Number, fill=Sherd)) +geom_bar(stat="identity", color="black", size=.3)+scale_fill_manual(values=c('light blue','pink'))+ labs(title="Number of Adzera Sherds",x=" ", y = "Number of Adzera Sherds")+coord_cartesian(ylim=c(0, 48), expand=FALSE)+scale_y_continuous(breaks=seq(from=0, to=48, by=10))+
+  geom_errorbar( aes(x=site, ymin=minerror, ymax=maxerror), width=0.0, colour="black", alpha=.7, size=.3)+theme_classic()+ theme(text = element_text(size = 5),legend.title = element_blank(),legend.key.size = unit(0.3, "cm"),legend.position="bottom",axis.text.x = element_text(angle = 90,vjust=0.5,color=as.character(thcol)),axis.ticks = element_line(colour = "black", size = 0.2))+ annotate("text", x = c, y = 48, label = as.vector(toplot$Total)[e], color=thcol[c], size=1.2, vjust=1)+ annotate("text", x = d, y = 45, label = as.vector(toplot$Total)[f], color=thcol[d], size=1.2,vjust=1)
+ggsave("adzeraNumwErr2.png", width = 9, height = 6, units = "cm")
+
 
 #for map, should do with x y co-ordinates
 siteAdzera0 <- siteAdzera
