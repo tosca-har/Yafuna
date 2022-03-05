@@ -357,16 +357,16 @@ ggsave("NondiagnosticPerWerr.png", width = 9, height = 5, units = "cm")
 
 match4[is.na(match4)] <- 0 
 match[is.na(match)] <- 0 
-siteAdzera_cut <- data.frame(site=factor(siteOrder,levels=siteOrder),Diagnostic =match2, Non_Diagnostic=adzeraNonDiagnosticN,Total =match4+match)
+siteAdzera_cut <- data.frame(site=factor(siteOrder,levels=siteOrder),Diagnostic =match2, Non_Diagnostic=adzeraNonDiagnosticN,Total =match4+match, Non_D_Total =match)
 siteAdzera_cut[is.na(siteAdzera_cut)] <- 0 
-toplot <- siteAdzera_cut %>% pivot_longer(!c(site,Total), names_to = "Sherd", values_to = "Number")
+toplot <- siteAdzera_cut %>% pivot_longer(!c(site,Total, Non_D_Total), names_to = "Sherd", values_to = "Number")
 e <- seq(from=1.2, to=dim(toplot)[1], by=4) 
 f <- e+2 
 ggplot(data=toplot, aes(x=site, y=Number, fill=Sherd)) +geom_bar(stat="identity", color="black", size=.3)+scale_fill_manual(values=c('light blue','pink'))+ labs(title="Number of Adzera Sherds",x=" ", y = "Number of Adzera Sherds")+coord_cartesian(ylim=c(0, 45), expand=FALSE)+scale_y_continuous(breaks=seq(from=0, to=45, by=10))+theme_classic()+ theme(text = element_text(size = 5),legend.title = element_blank(),legend.key.size = unit(0.3, "cm"),legend.position="bottom",axis.text.x = element_text(angle = 90,vjust=0.5,color=as.character(thcol)),axis.ticks = element_line(colour = "black", size = 0.2))+ annotate("text", x = c, y = 44, label = as.vector(toplot$Total)[e], color=thcol[c], size=1.2, vjust=1)+ annotate("text", x = d, y = 45, label = as.vector(toplot$Total)[f], color=thcol[d], size=1.2,vjust=1)
 ggsave("adzeraNum.png", width = 9, height = 6, units = "cm")
 
 # should it be error times number or error times total sherds?
-toplot2 <- toplot %>% mutate(error= ifelse(Sherd=="Diagnostic",0,Total*error/100)) 
+toplot2 <- toplot %>% mutate(error= ifelse(Sherd=="Diagnostic",0,Non_D_Total*error/100)) 
 toplot2$Sherd <- factor(toplot2$Sherd, levels=c("Non_Diagnostic","Diagnostic"))
 bothNum <- toplot2 %>% group_by(site) %>% summarise(bothN = sum(Number))
 toplot2 <- toplot2 %>% left_join(bothNum) %>% mutate(minerror= ifelse(Sherd=="Diagnostic",0,bothN-error), maxerror= ifelse(Sherd=="Diagnostic",0,bothN+error)) 
